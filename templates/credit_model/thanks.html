@@ -1,0 +1,79 @@
+{% extends 'credit_model/base.html' %}
+{% block body_block %}
+<div class="container">
+
+
+<h1 style='text-align:center;'>
+  Thank You!
+</h1>
+<hr>
+<center>
+  <br>
+  <h4>Your Loan's Probability of Default</h4>
+  <br>
+  <h5 style='color:#1B9591'>{{ prediction_value }}</h5>
+</center>
+<br>
+<div class="row">
+  <div class="col-sm-6">
+    <br>
+    <h5>Loan Term Length in Months (Max 360 Months):</h5>
+    <br>
+    <span style='color:#1B9591'>{{Term}}</span>
+  </div>
+  <div class="col-sm-6">
+    <br>
+    <h5>Loan Amount (Max 3,600,000):</h5>
+    <br>
+    <span style='color:#1B9591;'>{{DisbursementGross}}</span>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-6">
+    <br>
+    <h5>Urban or Rural Business Location:</h5>
+    <br>
+<span style='color:#1B9591'> {{UrbanRural}}</span>
+  </div>
+  <div class="col-sm-6">
+    <br>
+    <h5>New Company or Existing Company:</h5>
+    <br>
+  <span style='color:#1B9591'>{{NewExist}}</span>
+  </div>
+</div>
+<br><br>
+<div class="row">
+  <div class="col-sm-6">
+    <br>
+    <h5>State of Loan Recipient:</h5>
+    <br>
+    <span style='color:#1B9591'> {{State}}</span>
+  </div>
+  <div class="col-sm-6">
+    <br>
+    <h5>City of Loan Recipient:</h5>
+    <br>
+    <span style='color:#1B9591'> {{City}}</span>
+  </div>
+</div>
+<br><br>
+<div class="row">
+  <div class="col-sm-6">
+    <br>
+    <h5>Number of Employees:</h5>
+    <br>
+  <span style='color:#1B9591'>  {{NumberEmp}}</span>
+  </div>
+  <div class="col-sm-6">
+    <br>
+    <h5>Loan Issuer State:</h5>
+    <br>
+  <span style='color:#1B9591'>  {{BankState}}</span>
+  </div>
+</div>
+<br><br>
+<hr>
+<br>
+</div>
+{% endblock %}

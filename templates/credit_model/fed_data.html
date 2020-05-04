@@ -1,0 +1,96 @@
+{% extends 'credit_model/base.html' %}
+{% load django_tables2 %}
+{% load bootstrap3 %}
+{% block body_block %}
+<div class="container">
+
+<h1 style='text-align:center;'>
+  Federal Reserve 'Charge-Off' Rates 1985 - 2019
+</h1>
+<hr>
+<h5>
+  What you are seeing here is data provided by the Federal Reserve. You can access the source of this data <a href="https://www.federalreserve.gov/releases/chargeoff/chgallnsa.htm">here</a>.
+  The values on this page are non-seasonally adjusted 'Charge-Off' rates of business loans. A 'Charge-off' is another term for 'default'. The values presented here as 'DefaultRate' are the
+  percentage of defaults in loans in the United States. These values are accompanied by 'Year' and 'Quarter' values to allow for data filtering.
+  This data is important to have alongside the loan classifcation model for two reasons:
+  <br><br>
+   <ol>
+     <li>It is important to have a benchmark to compare potential loans to. This is especially the case when the tool on display here provides loan default probabilities.
+     While probabilites provide some understanding of the risk associated with a loan, it is also essential to understand where the nation is sitting overall in terms of default.
+     Knowing the overall 'health' of business loans allows a loan originator to better understand the risk premium attached to any loan. </li>
+  <br>
+     <li>This data is gathered by a governing financial instituation. What we are able to understand is that these numbers are to be trusted and extrapolated upon.</li>
+   </ol>
+</h5>
+{% if filter %}
+<!-- <span id='only_for_scroll'></span> -->
+<div class="filter_row list_filter_row row marl"id='only_for_scroll'>
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-body">
+        <form id="fed_filter" method="GET" action="{% url 'credit_model:fed_data' %}#fed_filter">
+          {% csrf_token %}
+          <div class="card-body">
+            <div class="card-title" style='text-align:center;'>Filters</div>
+            <div class="row marl justify-content-center">
+                  {% bootstrap_form filter.form %}
+                <div class="filter_col text-left col-sm-3">
+                  <br>
+                  <div class="form-group buttons_row">
+                    <button class="btn btn-primary save" type="submit" id='filter_btn'>Filter</button>
+                    <a href="{% url 'credit_model:fed_data' %}" class="btn btn-primary save">Clear</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+<div class="table_container_row row marl" id='DataTable'>
+  <div class="col-md-12">
+    <div class="card">
+      <div class="card-body">
+        <div class="panel-heading-list card-title text-right">
+          <span class="filter_toggle" id='filter_toggle'>
+            <a href="#" class="primary_btn"><i class="fas fa-filter"></i></a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% render_table table "credit_model/table.html" %}
+
+</div>
+{% block js_block %}
+<script type="text/javascript">
+  $(document).ready(function () {
+    $("#filter_toggle").click(function () {
+      $(".list_filter_row").toggle();
+      $("html, body").animate({ scrollTop: $("#only_for_scroll").offset().top }, 1500);
+      localStorage.setItem('my-scroll-pos', $(window).scrollTop());
+        });
+      });
+
+      var pos = localStorage.getItem('my-scroll-pos', 0);
+      if (pos){
+        $(window).scrollTop(pos)
+        delete pos
+      };
+  search = "{{ search }}"
+  if (search == 'True') {
+    $(".list_filter_row").close();
+  };
+
+  $("a[rel='page']").click(function (e) {
+    e.preventDefault();
+    $('#fed_filter').attr("action", $(this).attr("href"));
+    $('#fed_filter').submit();
+  });
+</script>
+{% endblock js_block %}
+
+{% endblock %}

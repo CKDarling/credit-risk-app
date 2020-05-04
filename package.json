@@ -1,0 +1,12 @@
+{
+  "name": "Inference-Architects-CRModeling",
+  "description": "Credit Risk Modeling",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.13.0"
+  },
+  "dependencies":{
+    "less":"3.10.3"
+  }
+
+}

@@ -1,0 +1,1001 @@
+City,State,BankState,Term,NoEmp,NewExist,UrbanRural,DisbursementGross
+LOS ANGELES,CA,NC,18,10,New Business,Urban,66869
+COLUMBUS,WI,IL,84,8,New Business,Rural,100000
+BRADLEY BEACH,NJ,RI,36,1,Existing Business,Urban,18000
+HOUSTON,TX,TX,84,4,New Business,Urban,387018
+Minden,LA,VA,84,3,New Business,Urban,25000
+FORT WORTH,TX,TX,84,4,Existing Business,Undefined,80000
+POMPANO BEACH,FL,NC,84,10,New Business,Urban,251913
+GILBERT,AZ,IL,84,1,Existing Business,Urban,25000
+PHOENIX,AZ,NC,17,10,New Business,Urban,62871
+UNITY,WI,WI,84,1,Existing Business,Undefined,26732
+VALLEJO,CA,NC,84,10,New Business,Urban,100000
+GAITHERSBURG,MD,NC,84,1,Existing Business,Urban,10114
+GARDEN GROVE,CA,NC,20,2,New Business,Urban,24000
+HAYDEN,ID,NC,84,1,New Business,Rural,63059
+VINEYARD HAVEN,MA,MA,84,11,Existing Business,Undefined,175000
+SANDY,UT,UT,84,20,New Business,Urban,160471
+HAMBURG,NY,NY,60,1,Existing Business,Urban,125000
+SANTA BARBARA,CA,CA,240,40,New Business,Undefined,99000
+OAKLAND,CA,NC,84,2,Existing Business,Urban,15000
+SAINT PETER,MN,MN,13,2,Existing Business,Undefined,28000
+NEWARK,NJ,RI,36,2,New Business,Urban,10500
+ELMIRA,NY,NY,84,1,Existing Business,Undefined,40000
+Rancho Dominguez,CA,NC,84,50,New Business,Urban,50484
+CHARLES TOWN,WV,WV,71,3,Existing Business,Undefined,22725
+LOGAN,UT,UT,60,12,New Business,Rural,100000
+LOGAN,UT,UT,60,30,New Business,Rural,100000
+BRINKLEY,AR,AR,88,4,New Business,Undefined,65000
+Laporte,IN,VA,16,3,New Business,Rural,50000
+Schaumburg,IL,IL,60,1,New Business,Urban,30000
+TUCKER,GA,NC,84,5,New Business,Urban,10000
+CANTON,MA,RI,36,1,New Business,Urban,10000
+FALLSTON,MD,MD,300,6,New Business,Undefined,695000
+Barberton,OH,VA,84,5,New Business,Urban,50000
+RENO,NV,NV,240,46,New Business,Undefined,703000
+LONGWOOD,FL,NC,84,8,New Business,Urban,70000
+HUNTERSVILLE,NC,NC,84,7,Existing Business,Rural,180000
+O'FALLON,MO,MO,240,8,New Business,Undefined,151000
+MADISON,WI,IL,84,3,Existing Business,Urban,160782
+LAS VEGAS,NV,ND,90,40,New Business,Undefined,500000
+CRESSKILL,NJ,RI,36,1,Existing Business,Urban,100000
+IOLA,KS,KS,144,2,New Business,Undefined,40000
+LENEXA,KS,KS,84,4,New Business,Undefined,105000
+Salem,IN,IN,60,1,New Business,Urban,10000
+FOREST,OH,OH,84,2,Existing Business,Undefined,25000
+RICHMOND,VA,NC,55,2,Existing Business,Urban,10000
+Fort Wayne,IN,IN,60,2,New Business,Urban,89600
+Everett,WA,VA,84,1,New Business,Rural,10000
+MEMPHIS,TN,TN,300,12,Existing Business,Undefined,450000
+LONGWOOD,FL,NC,84,1,Existing Business,Urban,10000
+SOMERSET,NJ,RI,36,4,Existing Business,Urban,100000
+OWATONNA,MN,MN,12,3,New Business,Urban,30000
+BEAVERCREEK,OH,OH,84,3,Existing Business,Undefined,100000
+MANTI,UT,UT,84,20,New Business,Rural,33529
+CARY,NC,NC,240,5,New Business,Undefined,206000
+LOS ANGELES,CA,NC,16,0,New Business,Urban,36837
+AUSTIN,TX,IL,84,4,New Business,Urban,57500
+Bristol,CT,VA,84,4,New Business,Urban,35000
+DALLAS,TX,NC,26,1,Existing Business,Urban,12000
+SOUTH BEND,IN,IN,240,12,Existing Business,Undefined,158000
+NORTHRIDGE,CA,NC,45,15,New Business,Urban,50000
+WASHBURN,WI,IL,240,1,New Business,Rural,145000
+CORTLANDVILLE,NY,NY,60,4,Existing Business,Undefined,50000
+LOS ANGELES,CA,NC,84,7,New Business,Urban,10000
+DELAWARE,OH,OH,60,5,Existing Business,Undefined,100000
+Oradell,NJ,RI,36,9,New Business,Urban,50000
+SAN DIEGO,CA,NC,33,6,New Business,Urban,50000
+Monument,CO,VA,90,13,New Business,Urban,150000
+MIAMI,FL,NC,71,6,New Business,Urban,50000
+CARENCRO,LA,LA,84,1,Existing Business,Undefined,96940
+BRIGHAM CITY,UT,UT,84,6,Existing Business,Rural,43685
+MONTOUR FALLS,NY,RI,60,14,New Business,Undefined,28000
+BLYTHEWOOD,SC,NC,84,1,Existing Business,Urban,10000
+HARRISVILLE,RI,CT,254,11,New Business,Undefined,150000
+LEVITTOWN,NY,RI,84,4,Existing Business,Urban,21000
+TIVERTON,RI,RI,120,1,New Business,Undefined,135000
+SARASOTA,FL,NC,84,1,Existing Business,Urban,24417
+MEMPHIS,TN,AL,120,25,New Business,Undefined,101000
+SCOTTSDALE,AZ,NC,22,1,Existing Business,Urban,16034
+Bolingbrook,IL,DE,118,1,New Business,Urban,626008
+HOLLISTER,CA,CA,120,7,New Business,Undefined,36485
+TWINSBURG,OH,OH,84,1,New Business,Urban,10000
+OLYMPIA,WA,WA,144,35,New Business,Undefined,404400
+LAGUNA HILLS,CA,CA,240,5,New Business,Undefined,319500
+WEISER,ID,UT,60,0,New Business,Rural,25000
+FORT WORTH,TX,NC,84,3,New Business,Urban,37523
+SAN FRANCISCO,CA,NC,0,12,New Business,Urban,110373
+SANDY,UT,UT,51,1,New Business,Urban,50000
+WHITTIER,CA,NC,84,4,Existing Business,Urban,10000
+STOCKTON,CA,NC,48,2,New Business,Urban,10000
+IDAHO FALLS,ID,UT,62,2,Existing Business,Rural,78897
+SAN FRANCISCO,CA,NC,42,1,New Business,Urban,25989
+NEW MILFORD,NJ,RI,36,2,Existing Business,Urban,10000
+SAN BERNARDINO,CA,CA,120,6,New Business,Undefined,50000
+BURLEY,ID,UT,84,1,New Business,Rural,40792
+KENT,WA,NC,84,8,New Business,Rural,124503
+MT. MARION,NY,NY,61,2,New Business,Undefined,10000
+OLYMPIA,WA,NC,84,1,New Business,Urban,34495
+RICHARDSON,TX,NC,84,1,Existing Business,Urban,13000
+SEATTLE,WA,NC,21,2,New Business,Urban,79159
+INDIANAPOLIS,IN,IL,84,4,New Business,Urban,132000
+PALOS VERDES PENINSULA,CA,NC,56,1,Existing Business,Urban,12450
+UNION,NJ,RI,36,1,Existing Business,Urban,60000
+PORT JEFFERSON STATION,NY,RI,36,1,New Business,Urban,11000
+Vernon Hills,IL,VA,84,6,New Business,Urban,50000
+LONG BEACH,CA,CA,300,12,New Business,Undefined,645000
+Phoenix,AZ,VA,84,6,New Business,Urban,50000
+LOS ANGELES,CA,NC,84,3,Existing Business,Urban,5000
+COLUMBIA,SC,NC,84,12,Existing Business,Urban,42050
+NEW YORK,NY,RI,24,7,Existing Business,Urban,59590
+LONE JACK,MO,MO,217,35,New Business,Undefined,130000
+DUBLIN,GA,NC,84,1,New Business,Urban,12882
+HENDERSONVILLE,TN,TN,96,8,Existing Business,Undefined,155000
+YORK,SC,VA,84,3,New Business,Urban,10000
+DENVER,CO,CA,15,2,Existing Business,Undefined,58000
+BRONX,NY,VA,84,1,New Business,Urban,10000
+HOUSTON,TX,NC,67,3,Existing Business,Urban,10000
+RATON,NM,NC,120,1,Existing Business,Undefined,30000
+BUTLER,NJ,RI,36,2,New Business,Urban,54000
+OCEANSIDE,CA,VA,84,2,New Business,Urban,25000
+PHOENIX,AZ,CA,172,23,New Business,Undefined,580000
+WORCESTER,MA,RI,36,3,New Business,Urban,30000
+SCHERTZ,TX,VA,84,2,New Business,Rural,10000
+OZARK,MO,MO,12,10,New Business,Undefined,30000
+SPRINGFIELD,MA,CT,158,50,New Business,Undefined,1000000
+MIDDLESEX,NJ,RI,36,1,New Business,Urban,19000
+PERU,IL,VA,84,3,New Business,Urban,25000
+JACKSONVILLE,FL,VA,84,17,New Business,Urban,50000
+FREMONT,CA,VA,84,5,New Business,Urban,50000
+MARTINEZ,GA,TX,218,3,Existing Business,Undefined,500000
+HOLBROOK,NY,RI,36,15,Existing Business,Urban,32500
+DENVER,CO,IL,84,3,New Business,Undefined,25000
+LANDING,NJ,RI,36,3,New Business,Urban,100000
+ALBUQUERQUE,NM,NC,84,6,New Business,Urban,10000
+REDDING,CA,CA,300,15,New Business,Undefined,311000
+GREENVILLE,NC,NC,84,4,Existing Business,Urban,10000
+DENVER,CO,IL,48,3,New Business,Undefined,1526
+COUNCIL BLUFFS,IA,NE,120,8,Existing Business,Undefined,58500
+Kennett Square,PA,NY,84,3,Existing Business,Urban,95000
+ASPEN,CO,CO,84,1,New Business,Undefined,20000
+ROSELLE PARK,NJ,RI,36,3,Existing Business,Urban,25000
+ANN ARBOR,MI,OH,12,5,New Business,Undefined,50000
+BEVERLY HILLS,CA,NC,84,5,New Business,Urban,47947
+BRIDGEVILLE,PA,DE,87,8,Existing Business,Undefined,75000
+SAN ANTONIO,TX,NC,84,3,New Business,Urban,13026
+STREAMWOOD,IL,IL,84,12,New Business,Undefined,400000
+CHILDRESS,TX,VA,84,6,New Business,Urban,35000
+LAFAYETTE,LA,LA,84,1,Existing Business,Undefined,20000
+Canton,MI,VA,84,4,New Business,Urban,35000
+COACHELLA,CA,CA,300,12,New Business,Undefined,121500
+CHICAGO,IL,IL,35,2,New Business,Urban,10000
+"COUER D'ALENE,",ID,ID,84,6,Existing Business,Undefined,65000
+Plano,TX,VA,14,20,New Business,Urban,50000
+DALLAS,TX,TX,84,130,New Business,Undefined,500000
+IRVINE,CA,NC,84,1,New Business,Urban,50000
+SEASIDE PARK,NJ,PA,180,4,New Business,Undefined,225000
+GRANVILLE,OH,DE,240,5,New Business,Rural,125300
+Elmhurst,IL,VA,84,10,New Business,Urban,50000
+NUTLEY,NJ,NY,120,3,New Business,Undefined,185000
+BALTILMORE,MD,MD,30,1,New Business,Undefined,145000
+Venice,FL,VA,84,2,New Business,Rural,25000
+KENMORE,WA,NC,84,4,New Business,Urban,89998
+MAYFIELD HEIGHTS,OH,OH,60,5,New Business,Undefined,70000
+ORADELL,NJ,RI,36,6,New Business,Urban,75000
+OAK PARK,IL,NC,84,13,Existing Business,Urban,10000
+GEORGETOWN,OH,OH,88,6,Existing Business,Undefined,63000
+LOS ANGELES,CA,NC,84,2,Existing Business,Urban,5000
+CYPRESS,CA,SD,120,1,Existing Business,Undefined,280000
+BALTIMORE,MD,NC,87,1,Existing Business,Undefined,35000
+HOUSTON,TX,IL,84,3,New Business,Urban,13300
+BRECKENRIDGE,CO,CA,74,4,Existing Business,Undefined,210563
+SAN MATEO,CA,SD,300,2,New Business,Undefined,585000
+BOISE,ID,UT,22,3,New Business,Rural,178866
+HUNTINGTON BEACH,CA,CA,300,7,New Business,Undefined,250000
+BALTIMORE,MD,NC,84,4,Existing Business,Urban,15198
+NEWARK,NJ,RI,36,1,Existing Business,Urban,30000
+OAKLAND,CA,DC,108,2,New Business,Undefined,250125
+ROSEVILLE,CA,NC,84,1,Existing Business,Urban,10000
+HOLLANSBURG,OH,OH,37,6,Existing Business,Undefined,100000
+FORT MYERS,FL,NC,53,1,Existing Business,Urban,11650
+DESOTO,KS,KS,84,3,New Business,Undefined,45000
+EVERETT,MA,RI,36,4,New Business,Urban,50000
+SCHENECTADY,NY,RI,36,4,New Business,Undefined,25000
+MOORPARK,CA,DC,264,16,New Business,Undefined,125000
+LOS ANGELES,CA,NC,84,13,New Business,Urban,50000
+NASHVILLE,TN,CA,120,16,Existing Business,Undefined,266500
+Milwaukee,WI,VA,84,2,New Business,Urban,100000
+ATHENS,TX,TX,120,30,New Business,Undefined,592000
+HENDERSON,NC,NC,84,8,New Business,Urban,20000
+BEDFORD,NH,NH,240,135,New Business,Undefined,349000
+SACO,ME,RI,36,1,Existing Business,Rural,27000
+TUCSON,AZ,NC,82,16,Existing Business,Urban,100000
+WHITE MARSH,MD,NC,84,15,New Business,Urban,78924
+WARTBURG,TN,TN,240,5,New Business,Undefined,350000
+New Boston,NH,DE,84,2,Existing Business,Urban,262000
+SOUTH OZONE PARK,NY,RI,54,4,Existing Business,Urban,18500
+COLUMBUS,OH,OH,144,70,New Business,Undefined,733716
+TOWSON,MD,NC,84,12,Existing Business,Urban,12888
+LONGMONT,CO,CO,84,2,Existing Business,Undefined,31000
+ATHENS,TX,TX,84,23,New Business,Undefined,77600
+YONKERS,NY,RI,36,3,New Business,Urban,30000
+JACKSON,NJ,RI,36,2,Existing Business,Urban,5009
+OAKBORO,NC,NC,48,2,Existing Business,Undefined,12000
+AMHERST,NY,NY,84,5,New Business,Undefined,81000
+NEWPORT,KY,OH,240,4,New Business,Undefined,128000
+BAYONNE,NJ,RI,36,2,Existing Business,Urban,100000
+MINERAL POINT,WI,WI,240,1,Existing Business,Undefined,280000
+SEBASTIAN,FL,NC,84,3,New Business,Rural,36135
+BERLIN,NJ,RI,84,1,Existing Business,Urban,10000
+HOUSTON,TX,NC,84,2,Existing Business,Urban,11745
+ENDICOTT,NY,NY,12,18,Existing Business,Undefined,30000
+BERGENFIELD,NJ,RI,36,2,New Business,Urban,9000
+SOMERSET,MA,MA,120,7,Existing Business,Undefined,100000
+SAINT PAUL,MN,OH,84,1,New Business,Urban,10550
+JOPLIN,MO,NC,12,10,New Business,Undefined,25000
+WALDWICK,NJ,RI,36,2,Existing Business,Urban,19000
+PLAINFIELD,NJ,RI,36,2,Existing Business,Urban,72500
+POMPANO BEACH,FL,NC,14,3,Existing Business,Urban,192881
+NORTH BABYLON,NY,RI,36,1,New Business,Urban,14500
+CINCINNATI,OH,OH,240,47,New Business,Undefined,109000
+HOLLYWOOD,FL,NC,84,1,Existing Business,Urban,15250
+WILMINGTON,DE,DE,90,16,Existing Business,Undefined,100000
+POMPANO BEACH,FL,NC,84,13,New Business,Urban,205404
+BOISE,ID,ID,60,3,New Business,Urban,22472
+WILKES-BARRE,PA,NY,60,4,New Business,Undefined,30000
+Rolesville,NC,NC,15,5,Existing Business,Rural,72000
+LAGRANGEVILLE,NY,NY,85,9,New Business,Undefined,46000
+FOSTER,RI,RI,36,1,New Business,Urban,45000
+ARKVILLE,NY,NY,180,3,Existing Business,Undefined,60000
+RIDGE,NY,RI,36,1,Existing Business,Urban,5000
+GAITHERSBURG,MD,MD,84,1,Existing Business,Undefined,40000
+Harrisburg,PA,PA,20,19,New Business,Urban,115685
+AUGUSTA,GA,GA,240,8,New Business,Undefined,286000
+WOODBRIDGE,NJ,RI,36,3,New Business,Urban,25500
+CHATTANOOGA,TN,TN,84,2,Existing Business,Undefined,35000
+BALLWIN,MO,NC,84,16,New Business,Urban,5000
+WEST CHESTER,PA,PA,84,4,Existing Business,Undefined,42000
+COTTAGE GROVE,WI,IL,120,0,New Business,Urban,72000
+BYRAM,MS,MS,120,2,Existing Business,Undefined,70000
+FREEHOLD,NJ,RI,36,2,Existing Business,Urban,22000
+WELCH,TX,TX,9,24,New Business,Undefined,250000
+Lake Lynn,PA,PA,60,1,New Business,Rural,14000
+WINTER PARK,FL,FL,119,75,New Business,Undefined,1442901
+HOBOKEN,NJ,RI,36,2,New Business,Urban,25000
+GEORGETOWN,TX,NC,84,9,New Business,Rural,90000
+BAYTOWN,TX,NC,84,2,New Business,Urban,12420
+Naperville,IL,IL,60,4,New Business,Rural,38933
+SOUTHGATE,MI,IL,60,12,New Business,Urban,203800
+ST. GEORGE,UT,UT,240,6,Existing Business,Undefined,134000
+SAINT LOUIS,MO,OH,60,3,Existing Business,Urban,42500
+CANTON,GA,GA,63,3,Existing Business,Undefined,60000
+SALT LAKE CITY,UT,UT,84,4,New Business,Urban,36000
+STAR,ID,UT,60,1,New Business,Rural,30000
+COLUMBUS,MS,MS,84,3,New Business,Undefined,82000
+SPRING GROVE,IL,IL,55,10,Existing Business,Urban,350000
+BURR RIDGE,IL,IL,240,74,New Business,Undefined,714000
+THERMOPOLIS,WY,WY,300,3,New Business,Undefined,121000
+IDAHO FALLS,ID,UT,65,1,Existing Business,Rural,15000
+Hebron,OH,DE,26,1,New Business,Rural,45333
+SIOUX CENTER,IA,IA,84,1,Existing Business,Undefined,18450
+MISSOURI CITY,TX,NC,84,1,Existing Business,Urban,10000
+OGDEN,UT,UT,71,2,New Business,Urban,78500
+BAY MINETTE,AL,CA,252,7,New Business,Undefined,220000
+SAN FRANCISCO,CA,NC,84,2,Existing Business,Urban,5000
+OXFORD,AL,AL,240,5,Existing Business,Undefined,164000
+TOPOCK,AZ,IL,87,5,New Business,Urban,286200
+MODESTO,CA,NC,43,20,New Business,Urban,54383
+IRVINE,CA,NC,84,1,New Business,Urban,61635
+OGDEN,UT,UT,84,2,New Business,Urban,35300
+LA JOLLA,CA,NC,53,1,New Business,Urban,12000
+SOMERVILLE,NJ,NJ,240,5,New Business,Undefined,325000
+SAINT GEORGE,UT,UT,4,12,New Business,Rural,178978
+New Kensington,PA,PA,60,4,New Business,Rural,59797
+SAN JOSE,CA,TX,84,2,Existing Business,Undefined,75000
+WESTFIELD,IN,IL,84,1,New Business,Urban,55854
+ONTARIO,CA,NC,84,6,New Business,Urban,65682
+LAKEWOOD,WA,OH,84,13,New Business,Urban,106646
+LOGAN,UT,UT,240,3,New Business,Undefined,122000
+BELL,CA,NC,34,1,Existing Business,Urban,10000
+BINGHAMTON,NY,IL,36,5,New Business,Undefined,35000
+VERONA,WI,OH,84,1,New Business,Urban,26937
+CRYSTAL LAKE,IL,IL,120,10,New Business,Urban,500000
+BRONX,NY,IL,36,2,New Business,Undefined,30420
+Tampa,FL,VA,36,2,New Business,Urban,50000
+COLCHESTER,VT,VT,60,10,New Business,Undefined,40000
+Brentwood,TN,VA,84,1,New Business,Urban,35000
+Antioch,IL,VA,36,28,New Business,Urban,50000
+ALBANY,OR,OR,240,19,New Business,Undefined,478000
+Indianapolis,IN,VA,19,10,New Business,Urban,25000
+Stevens Point,WI,VA,84,9,New Business,Urban,25000
+APEX,NC,VA,26,15,New Business,Urban,50000
+Ridgefield,CT,VA,56,1,New Business,Urban,35000
+Agawam,MA,DE,60,6,New Business,Urban,10000
+Madison,WI,VA,53,3,New Business,Urban,35000
+Round Rock,TX,VA,84,6,New Business,Rural,50000
+Lawrenceville,GA,VA,84,2,New Business,Urban,35000
+Dixon,IL,VA,84,4,New Business,Urban,25000
+Berkley,MI,VA,108,6,New Business,Urban,100000
+RAVENA,NY,NY,36,1,New Business,Undefined,10000
+CINCINNATI,OH,VA,84,1,New Business,Urban,50000
+FLORHAM PARK,NJ,RI,36,2,Existing Business,Urban,100000
+SPARKS,NV,VA,31,2,New Business,Urban,50000
+CHARLOTTE,NC,NC,180,1,New Business,Undefined,30000
+ELIZABETH,NJ,RI,36,15,New Business,Urban,100000
+COLUMBUS,GA,GA,84,16,New Business,Undefined,100000
+COLUMBIA,MD,NC,84,2,New Business,Urban,17310
+DULUTH,GA,VA,58,4,New Business,Urban,35000
+CHARLOTTESVILLE,VA,VA,84,5,New Business,Urban,25000
+RED LION,PA,VA,84,6,New Business,Urban,25000
+ELLICOTT,MD,MD,60,8,New Business,Undefined,50000
+TROY,MI,VA,84,45,New Business,Urban,50000
+LAWRENCEVILLE,GA,VA,84,2,New Business,Urban,35000
+HOISINGTON,KS,KS,144,3,New Business,Undefined,112300
+St. Clair Shores,MI,DE,89,9,New Business,Rural,382110
+LITHONIA,GA,SD,84,4,New Business,Undefined,78000
+PROVIDENCE,RI,RI,24,5,New Business,Urban,75000
+BALTIMORE,MD,MD,61,4,Existing Business,Undefined,150000
+CHIEFLAND,FL,NC,36,4,New Business,Urban,100000
+BIRMINGHAM,AL,VA,67,1,New Business,Urban,50000
+BRENTWOOD,TN,VA,84,2,New Business,Urban,10000
+CHICAGO,IL,VA,61,4,New Business,Urban,50000
+MOUNTAIN HOME,AR,AR,7,4,Existing Business,Undefined,100000
+WEST PALM BEACH,FL,VA,84,4,New Business,Rural,10000
+HIALEAH,FL,NC,84,1,New Business,Urban,30000
+EL CENTRO,CA,CA,300,3,New Business,Undefined,90000
+LOS ANGELES,CA,NC,84,4,New Business,Urban,18105
+KNOXVILLE,TN,TN,120,1,New Business,Undefined,131000
+NEW YORK,NY,VA,84,5,New Business,Urban,35000
+EAST HAMPTON,NY,IL,36,1,New Business,Undefined,39600
+IRMO,SC,NC,84,5,New Business,Urban,40000
+TUCKER,GA,NC,84,4,New Business,Urban,68000
+FORT PAYNE,AL,VA,84,3,New Business,Urban,25000
+NEW BRUNSWICK,NJ,RI,36,3,New Business,Urban,15000
+North Vernon,IN,IN,60,2,Existing Business,Urban,20000
+FREDERICKTOWN,PA,PA,84,12,New Business,Undefined,80000
+FORT WORTH,TX,VA,84,1,New Business,Urban,35000
+Redmond,WA,VA,84,8,New Business,Urban,100000
+East Berlin,PA,VA,84,3,New Business,Urban,35000
+LITTLE ROCK,AR,NC,100,3,New Business,Urban,30531
+Las Vegas,NV,VA,65,7,New Business,Urban,50000
+North Vernon,IN,DE,60,2,Existing Business,Urban,165143
+WINDSOR MILL,MD,NY,7,5,Existing Business,Urban,200000
+Nottingham,MD,VA,84,5,New Business,Urban,25000
+Poughkeepsie,NY,VA,41,4,New Business,Urban,35000
+NEW LONDON,CT,RI,36,4,Existing Business,Urban,100000
+Newport News,VA,VA,84,4,New Business,Urban,100000
+BONITA SPRINGS,FL,NC,84,3,New Business,Urban,80580
+KLAMATH FALLS,OR,VA,35,3,New Business,Rural,10000
+DOVER,NJ,RI,36,3,New Business,Urban,70000
+BRIGHAM CITY,UT,OR,123,10,New Business,Undefined,130000
+Sodus,NY,VA,84,4,New Business,Urban,35000
+SAN FRANCISCO,CA,VA,36,6,New Business,Urban,50000
+Laurence Harbor,NJ,RI,36,3,Existing Business,Urban,60000
+TONAWANDA,NY,RI,36,1,New Business,Urban,41500
+ANNA,TX,VA,18,7,New Business,Urban,35000
+GARLAND,TX,NC,84,1,New Business,Urban,10000
+LAKE FOREST,IL,IL,84,12,Existing Business,Urban,49943
+UNIVERSITY PLACE,WA,NC,84,3,New Business,Urban,24500
+SNELLVILLE,GA,NC,84,1,New Business,Urban,15000
+LOS ANGELES,CA,NC,84,2,Existing Business,Urban,30000
+SAINT AUGUSTINE,FL,NC,84,2,Existing Business,Urban,10000
+NEW YORK,NY,RI,36,1,Existing Business,Urban,37500
+SAN ANTONIO,TX,NC,84,5,Existing Business,Urban,20042
+VOORHEES,NJ,RI,36,2,Existing Business,Urban,5000
+WYCKOFF,NJ,RI,36,2,Existing Business,Urban,5000
+ROSEVILLE,CA,NC,84,10,Existing Business,Urban,10000
+OCEAN,NJ,SD,120,12,Existing Business,Undefined,241008
+SAINT GEORGE,UT,UT,36,5,New Business,Rural,25000
+WASHINGTON TWP,NJ,NJ,216,5,Existing Business,Undefined,625000
+STERLING,VA,MD,120,1,New Business,Undefined,295794
+CLOSTER,NJ,NJ,84,2,Existing Business,Undefined,50000
+VIRGINIA BEACH,VA,NC,24,20,New Business,Urban,112553
+MUSKOGEE,OK,OK,60,1,New Business,Undefined,15000
+CAMDEN,NJ,RI,36,4,Existing Business,Urban,100000
+BRENTWOOD,TN,TN,120,5,Existing Business,Undefined,95000
+LAKE WORTH,FL,NC,84,3,New Business,Rural,78287
+HAZLETON,PA,PA,3,2,Existing Business,Urban,15000
+MINFORD,OH,OH,282,10,New Business,Undefined,110000
+FORT WORTH,TX,IL,189,0,New Business,Urban,268700
+QUINCY,MA,RI,36,1,Existing Business,Urban,14500
+NASHVILLE,TN,GA,37,2,Existing Business,Undefined,100000
+TARPON SPRINGS,FL,NC,84,3,New Business,Urban,90000
+TOTOWA,NJ,RI,36,8,New Business,Urban,100000
+GLENDALE,AZ,AZ,240,30,New Business,Undefined,852000
+SISTER BAY,WI,WI,240,1,Existing Business,Undefined,617000
+HILLSBOROUGH,NJ,RI,36,2,Existing Business,Urban,15000
+NEW ALBANY,MS,MS,240,20,Existing Business,Undefined,587000
+HENDERSONVILLE,TN,TN,1,1,New Business,Undefined,80000
+BURBANK,CA,NC,40,2,New Business,Rural,100000
+ALLIANCE,OH,DE,16,39,New Business,Undefined,325000
+MOAB,UT,UT,84,2,New Business,Rural,101674
+BOSTON,MA,MA,240,18,New Business,Undefined,329000
+IRVINGTON,NJ,RI,36,2,Existing Business,Urban,15000
+COLUMBIA,MO,MO,60,1,Existing Business,Undefined,42520
+WOODLAND HILLS,CA,NC,84,1,Existing Business,Urban,11767
+ITHACA,NY,NY,60,20,New Business,Urban,150000
+ONEIDA,NY,NY,85,1,Existing Business,Undefined,40000
+PASCOAG,RI,RI,36,1,Existing Business,Urban,25000
+SAN JOSE,CA,CA,84,11,New Business,Undefined,170000
+ATLANTA,GA,NC,84,1,Existing Business,Urban,50000
+ATCO,NJ,RI,36,1,Existing Business,Urban,50000
+SCOTTSDALE,AZ,AZ,60,5,Existing Business,Undefined,44000
+BOISE,ID,NC,84,1,New Business,Urban,9950
+SEATTLE,WA,NC,84,1,New Business,Urban,20000
+NOGALES,AZ,AZ,120,5,Existing Business,Undefined,85000
+SEATTLE,WA,VA,84,1,New Business,Urban,35000
+PLATTSBURGH,NY,NY,120,4,Existing Business,Undefined,147500
+RICHFIELD,UT,UT,84,4,New Business,Rural,50000
+PITTSBURGH,PA,PA,108,1,New Business,Undefined,200000
+MEDFORD,OR,OR,120,3,Existing Business,Undefined,50000
+MIAMI,FL,NC,84,1,New Business,Urban,159980
+WAXAHACHIE,TX,TX,264,1,Existing Business,Undefined,388544
+KAMAS,UT,UT,60,1,New Business,Rural,25000
+"IMPERIAL,",NE,NE,120,3,Existing Business,Undefined,0
+WORTHINGTON,OH,IL,84,40,New Business,Undefined,530000
+EMERYVILLE,CA,NC,84,4,New Business,Urban,59215
+TOLEDO,OH,OH,6,5,New Business,Urban,24986
+GLEN BURNIE,MD,SD,111,5,New Business,Undefined,300000
+PORTLAND,OR,VA,65,1,New Business,Urban,50000
+SAN LUIS OBISPO,CA,SD,88,2,New Business,Undefined,179000
+PHOENIX,AZ,IL,84,7,Existing Business,Urban,120768
+ALAMOSA,CO,SD,108,10,New Business,Undefined,637000
+PARAMUS,NJ,RI,36,3,New Business,Urban,50000
+MELBOURNE,FL,SC,256,9,New Business,Undefined,265000
+PLANO,TX,NC,84,2,New Business,Urban,41535
+DOVER,NJ,NJ,240,4,New Business,Undefined,196000
+SALT LAKE CITY,UT,UT,84,9,New Business,Urban,61976
+FABIUS,NY,NY,87,5,Existing Business,Undefined,70000
+FORT LAUDERDALE,FL,NC,13,2,New Business,Urban,113667
+MIAMI,FL,FL,240,160,New Business,Undefined,312000
+TOMS RIVER,NJ,RI,36,10,Existing Business,Urban,100000
+FAIR LAWN,NJ,NJ,300,2,New Business,Undefined,220000
+BOONTON,NJ,RI,36,20,Existing Business,Urban,100000
+OGDEN,UT,UT,84,3,Existing Business,Urban,5875
+MIAMI,FL,NC,33,5,New Business,Urban,50000
+OXFORD,PA,SD,60,3,Existing Business,Undefined,40000
+JERSEY CITY,NJ,RI,36,3,New Business,Urban,55000
+RICHFIELD,UT,UT,84,8,New Business,Rural,35000
+OGDEN,UT,UT,60,3,Existing Business,Urban,23000
+MAGNOLIA,TX,TX,36,2,Existing Business,Undefined,14000
+MAPLE SHADE,NJ,RI,36,2,Existing Business,Urban,10000
+CULLEOKA,TN,TN,120,4,New Business,Undefined,90000
+GERMANTOWN,WI,IL,84,3,Existing Business,Urban,200000
+WASHBURN,WI,IL,120,1,Existing Business,Undefined,35000
+SALT LAKE CITY,UT,UT,84,1,Existing Business,Urban,29659
+MOSCOW,ID,UT,84,18,New Business,Rural,301049
+SAN JOSE,CA,SD,84,14,New Business,Undefined,75000
+LONG BEACH,CA,NC,5,5,New Business,Urban,79904
+GHENT,MN,MN,84,5,New Business,Undefined,200000
+Wheeling,IL,IL,60,4,New Business,Rural,123314
+CAMDEN,NJ,RI,36,3,New Business,Urban,25000
+LA CROSSE,WI,WI,84,1,New Business,Undefined,30000
+DALLAS,TX,IL,60,3,New Business,Undefined,30000
+GERMANTOWN,TN,MS,4,6,New Business,Urban,168219
+O FALLON,IL,WI,84,8,Existing Business,Urban,109500
+INGLEWOOD,CA,TX,300,10,New Business,Undefined,260000
+Layton,UT,UT,84,1,New Business,Urban,50000
+NARROWS,VA,VA,120,4,Existing Business,Undefined,139000
+MADERA,CA,NC,84,1,New Business,Urban,7500
+ROSEVILLE,MN,MN,48,31,New Business,Undefined,80000
+HEBER CITY,UT,UT,84,1,Existing Business,Rural,69741
+RIVIERA BEACH,FL,SD,84,5,New Business,Undefined,64000
+South Euclid,OH,DE,17,1,New Business,Urban,65684
+NEWARK,DE,DE,67,5,Existing Business,Undefined,70000
+LYNDHURST,NJ,RI,36,5,New Business,Urban,50000
+LIVERPOOL,NY,SD,300,10,New Business,Undefined,320000
+GOODYEAR,AZ,NC,24,4,New Business,Urban,13364
+BOYNTON BEACH,FL,NC,84,1,New Business,Rural,13000
+RICHFIELD,UT,UT,84,5,New Business,Rural,237395
+TREMONTON,UT,UT,119,41,New Business,Rural,51682
+RICHLAND,WA,NC,84,2,Existing Business,Urban,10000
+MARYSVILLE,OH,IL,54,2,Existing Business,Rural,66500
+NORWOOD,MA,RI,84,10,Existing Business,Undefined,200000
+NORTH LAS VEGAS,NV,NC,84,1,Existing Business,Urban,10509
+TULSA,OK,NC,63,1,Existing Business,Urban,15000
+SALINAS,CA,CA,84,4,New Business,Undefined,60000
+Hazel Park,MI,DE,60,2,New Business,Rural,12236
+Grand Rapids,MI,IL,60,2,Existing Business,Urban,49048
+MC ALESTER,OK,OK,240,10,Existing Business,Undefined,272000
+SAINT GEORGE,UT,UT,84,2,New Business,Rural,65570
+NASHVILLE,TN,GA,60,2,Existing Business,Undefined,100000
+DODGE CITY,KS,KS,72,2,Existing Business,Undefined,80000
+PITTSBURGH,PA,PA,60,2,Existing Business,Urban,50000
+OKEMOS,MI,MI,168,14,Existing Business,Undefined,271500
+HOUSTON,TX,TX,48,12,New Business,Undefined,238500
+Idaho Falls,ID,VA,63,6,New Business,Urban,50000
+Rehoboth Beach,DE,VA,84,31,New Business,Urban,50000
+El Paso,TX,VA,84,12,New Business,Urban,50000
+SAN FRANCISCO,CA,CA,48,20,New Business,Undefined,70000
+Peabody,MA,DE,120,4,New Business,Urban,100000
+INDIANAPOLIS,IN,IN,240,6,New Business,Undefined,132000
+Missoula,MT,VA,19,5,New Business,Urban,35000
+Scottsdale,AZ,VA,43,1,New Business,Urban,10000
+MIDDLETOWN,PA,PA,84,2,Existing Business,Urban,112500
+FRESNO,CA,CA,300,1,New Business,Undefined,124000
+CHARLOTTE,TN,NC,84,3,New Business,Urban,20000
+ALAMEDA,CA,CA,300,25,New Business,Undefined,630000
+Henderson,NV,VA,84,2,New Business,Urban,25000
+PECULIAR,MO,NC,63,1,Existing Business,Urban,10000
+Mt. Holly,NJ,VA,53,3,New Business,Urban,75000
+LIHUE,HI,HI,120,2,New Business,Undefined,50000
+DENVER,CO,VA,48,1,New Business,Urban,100000
+SAINT PETERSBURG,FL,NC,84,1,New Business,Urban,18754
+Gladstone,OR,VA,84,28,New Business,Urban,50000
+THURMONT,MD,NC,84,6,Existing Business,Urban,148848
+San Andreas,CA,VA,84,5,New Business,Urban,50000
+KNOXVILLE,TN,TN,84,23,New Business,Undefined,95000
+WOODBRIDGE,VA,NC,84,1,New Business,Urban,10000
+Dolton,IL,VA,84,40,New Business,Urban,50000
+MACCLENNY,FL,VA,84,9,New Business,Urban,35000
+FAIRFIELD,IA,VA,15,3,New Business,Urban,25000
+Spring,TX,VA,21,4,New Business,Urban,35000
+PINEBLUFF,NC,VA,84,3,New Business,Urban,50000
+ELLISVILLE,MO,VA,34,3,New Business,Urban,35000
+SO  EL MONTE,CA,VA,28,3,New Business,Urban,10000
+PLANT CITY,FL,VA,28,3,New Business,Urban,25000
+LOS ANGELES,CA,NC,84,8,New Business,Urban,25000
+RIVERTON,WY,UT,186,8,Existing Business,Undefined,320000
+GREEN BAY,WI,WI,87,6,New Business,Urban,246000
+MT. PLEASANT,TN,AL,180,6,New Business,Undefined,49000
+Chesapeake,VA,VA,47,2,New Business,Urban,50000
+HALLANDALE,FL,NC,84,3,New Business,Urban,50000
+Ruston,LA,VA,84,40,New Business,Urban,50000
+Tierra Verde,FL,VA,84,1,New Business,Urban,25000
+HONOLULU,HI,HI,60,2,New Business,Undefined,60000
+MENTOR,OH,OH,60,3,Existing Business,Urban,14100
+Broadview Heights,OH,VA,21,1,New Business,Urban,50000
+SYRACUSE,NY,NY,84,5,Existing Business,Urban,621177
+BELLEVUE,WA,NC,84,1,Existing Business,Urban,24995
+CONCORD,CA,NC,84,1,New Business,Urban,16143
+CENTERBURG,OH,OH,132,7,New Business,Undefined,300000
+EDGEWATER,FL,NC,84,1,New Business,Urban,19966
+UNION,NJ,RI,36,40,New Business,Urban,100000
+BRANDON,MS,AR,222,2,New Business,Undefined,109800
+Charlotte,NC,SD,60,23,New Business,Rural,150000
+S. GLENS FALLS,NY,NY,84,3,Existing Business,Undefined,52000
+Arnold,MO,VA,84,2,New Business,Rural,50000
+ANTIOCH,CA,CA,120,1,Existing Business,Undefined,70000
+Newport News,VA,VA,84,3,New Business,Urban,25000
+CLIFTON PARK,NY,CT,60,28,Existing Business,Undefined,50000
+BROOK PARK,OH,IL,84,12,New Business,Urban,1055147
+"OROFINO,",ID,OH,120,22,New Business,Undefined,160000
+Raleigh,NC,SD,72,10,Existing Business,Urban,150000
+Boulder,CO,VA,24,27,New Business,Urban,50000
+Brooklyn,NY,VA,84,5,New Business,Urban,50000
+LINN CREEK,MO,MO,84,21,New Business,Undefined,216644
+Pelican Lake,WI,VA,84,10,New Business,Rural,25000
+Billings,MT,VA,84,6,New Business,Rural,50000
+HONOLULU,HI,HI,84,12,New Business,Undefined,75000
+BOISE,ID,ID,60,3,Existing Business,Urban,15000
+Faucett,MO,VA,84,3,New Business,Rural,25000
+CEDAREDGE,CO,CO,240,2,New Business,Rural,149600
+POMPTON LAKES,NJ,VA,84,4,New Business,Urban,50000
+BAKERSFIELD,CA,VA,84,6,New Business,Urban,50000
+SPRINGFIELD,MO,MO,84,109,New Business,Undefined,90000
+NEENAH,WI,WI,84,2,New Business,Urban,25000
+LAWRENCEVILLE,GA,VA,45,4,New Business,Urban,50000
+SYRACUSE,NY,NY,7,58,New Business,Urban,400000
+WINDSOR,CO,VA,84,5,New Business,Rural,25000
+ORLAND PARK,IL,VA,84,5,New Business,Urban,25000
+HOMESTEAD,FL,NC,46,2,Existing Business,Urban,20000
+COUPEVILLE,WA,VA,37,13,New Business,Urban,35000
+COLUMBIA,MD,MD,60,30,New Business,Undefined,33000
+NEENAH,WI,WI,42,2,New Business,Urban,13000
+WASHINGTON,DC,VA,84,7,New Business,Urban,50000
+JERSEY CITY,NJ,RI,36,2,Existing Business,Urban,36158
+BLOOMINGDALE,NJ,RI,36,1,Existing Business,Urban,5000
+INGLEWOOD,CA,NC,84,3,New Business,Urban,32695
+EVANSTON,IL,IL,84,1,Existing Business,Urban,368229
+BURKE,VA,NC,7,26,New Business,Urban,194719
+KISSIMMEE,FL,NC,60,3,New Business,Urban,40000
+Agawam,MA,VA,84,8,New Business,Urban,50000
+MILWAUKEE,WI,WI,48,2,New Business,Urban,50000
+WAUSAU,WI,WI,48,1,New Business,Urban,21300
+Woodinville,WA,VA,17,1,New Business,Urban,25000
+MIAMI,FL,NC,24,5,New Business,Urban,126500
+ALEXANDRIA,VA,NC,37,6,New Business,Urban,50000
+CLAREMONT,NH,RI,36,4,New Business,Urban,37500
+Raeford,NC,VA,84,2,New Business,Rural,50000
+SEATTLE,WA,NC,84,2,New Business,Urban,10000
+Indianapolis,IN,DE,60,2,Existing Business,Urban,101748
+BALTIMORE,MD,NC,84,2,Existing Business,Urban,12598
+MONROE TOWNSHIP,NJ,RI,36,4,Existing Business,Rural,83300
+LAKE ZURICH,IL,IL,84,4,New Business,Undefined,100000
+Indianapolis,IN,DE,99,2,Existing Business,Urban,70000
+VANCOUVER,WA,TX,84,5,New Business,Undefined,150000
+SEATTLE,WA,NC,84,1,New Business,Urban,53500
+NEW BRUNSWICK,NJ,RI,36,2,Existing Business,Urban,5000
+NAPERVILLE,IL,IL,120,1,Existing Business,Undefined,320000
+POMPANO BEACH,FL,GA,84,9,New Business,Undefined,425000
+ORANGE,CA,OH,84,40,New Business,Urban,25000
+ONTARIO,CA,CA,300,21,New Business,Undefined,477000
+NORTH BRUNSWICK,NJ,RI,36,2,New Business,Urban,45000
+NEW BRUNSWICK,NJ,RI,36,2,Existing Business,Urban,20500
+WARWICK,RI,DE,84,6,New Business,Undefined,90000
+PALM BEACH GARDENS,FL,NC,84,5,New Business,Rural,50000
+ALPINE,CA,CA,36,2,New Business,Undefined,270000
+SAFETY HARBOR,FL,NC,84,3,New Business,Rural,25000
+NEW LENOX,IL,IL,179,2,New Business,Undefined,200000
+MIAMI,FL,NC,84,1,Existing Business,Urban,22167
+MORRIS,IL,IL,95,1,Existing Business,Undefined,150000
+Morrisville,NC,VA,84,1,New Business,Urban,25000
+ALTADENA,CA,NC,84,1,New Business,Urban,40000
+WASHINGTON,DC,NC,84,2,New Business,Urban,60417
+SUSSEX,NJ,RI,36,3,New Business,Urban,45000
+Waynesburg,PA,OH,60,1,New Business,Urban,20794
+NORTH BERGEN,NJ,RI,36,2,Existing Business,Urban,100000
+LYMAN,WY,WY,240,6,New Business,Undefined,75000
+ISELIN,NJ,RI,36,5,New Business,Urban,50000
+MIAMI BEACH,FL,NC,31,3,New Business,Urban,54910
+SHOW LOW,AZ,NC,24,1,New Business,Urban,10000
+ORMOND BEACH,FL,NC,84,2,Existing Business,Urban,10700
+JOHNSTOWN,NY,NY,84,18,Existing Business,Undefined,125000
+DELTA,OH,OH,12,14,New Business,Undefined,150000
+CERRITOS,CA,NC,38,4,New Business,Urban,50000
+Kansas City,KS,VA,50,6,New Business,Urban,50000
+Lincoln,NE,VA,84,3,New Business,Urban,10000
+IRVINGTON,NJ,RI,36,1,Existing Business,Urban,5009
+Lebanon,OH,VA,84,10,New Business,Rural,50000
+CHICAGO,IL,IL,84,120,New Business,Undefined,555000
+ANAHEIM HILLS,CA,CA,120,60,Existing Business,Undefined,218700
+BELTSVILLE,MD,NC,84,3,Existing Business,Urban,12887
+Foley,MN,VA,84,11,New Business,Urban,10000
+SAN RAMON,CA,CA,84,12,Existing Business,Undefined,250000
+INDIANAPOLIS,IN,IL,84,8,New Business,Urban,36400
+RIVERSIDE,CA,NC,84,1,New Business,Urban,9000
+CARBONDALE,PA,PA,12,2,New Business,Undefined,30000
+Irving,TX,VA,84,1,New Business,Urban,125000
+GRANGEVILLE,ID,OH,84,3,New Business,Rural,12559
+LOS ANGELES,CA,NC,19,5,New Business,Rural,43000
+NEW BRUNSWICK,NJ,RI,36,5,Existing Business,Urban,10000
+LAMPASAS,TX,TX,48,30,New Business,Undefined,175000
+Indianapolis,IN,IN,60,1,Existing Business,Urban,35000
+VENICE,CA,NC,84,2,New Business,Urban,28597
+ANAHEIM,CA,SD,96,10,New Business,Undefined,230000
+NORTH MIAMI,FL,VA,84,2,New Business,Urban,25000
+Plymouth,IN,IN,60,2,New Business,Rural,67821
+LAS VEGAS,NV,NC,84,2,New Business,Urban,22500
+WEST SACRAMENTO,CA,CO,240,15,New Business,Undefined,104000
+APPLETON,WI,WI,84,40,New Business,Urban,350000
+"SPOKANE,",WA,WA,240,29,Existing Business,Undefined,999000
+GRIFFITHVILLE,AR,NC,84,3,Existing Business,Urban,23706
+STOCKTON,CA,SD,94,9,New Business,Undefined,40000
+NUNICA,MI,MI,84,2,Existing Business,Rural,200000
+Manassas,VA,VA,84,10,New Business,Urban,75000
+APPLETON,WI,WI,84,40,New Business,Urban,100000
+LAKE WORTH,FL,NC,84,1,Existing Business,Rural,17000
+LA PORTE,TX,NC,84,2,New Business,Urban,22644
+LAKE MARY,FL,NC,84,1,Existing Business,Urban,18586
+MANTI,UT,UT,84,3,New Business,Rural,44174
+Louisville,KY,KY,60,1,New Business,Urban,25594
+BAYONNE,NJ,RI,36,5,New Business,Urban,100000
+OSHKOSH,WI,WI,300,1,New Business,Urban,225000
+Frostburg,MD,NY,1,1,Existing Business,Rural,34000
+CARLSBAD,CA,VA,84,4,New Business,Urban,50000
+Avella,PA,SD,84,5,Existing Business,Rural,104500
+Laurelville,OH,OH,60,1,Existing Business,Rural,18900
+Columbia,MD,VA,84,4,New Business,Urban,25000
+BALDWIN PARK,CA,NC,34,250,Existing Business,Urban,64000
+Liberty,UT,UT,34,5,New Business,Rural,61620
+PUNTA GORDA,FL,NC,84,4,New Business,Rural,50000
+MIAMI,FL,NC,33,2,New Business,Urban,84500
+SHELLEY,ID,UT,84,2,Existing Business,Rural,17000
+ATLANTA,GA,NC,84,2,New Business,Urban,58350
+DALY CITY,CA,NC,37,2,Existing Business,Rural,10000
+LAWRENCEVILLE,GA,SD,60,20,New Business,Urban,200000
+SALT LAKE CITY,UT,UT,84,10,New Business,Urban,110122
+ANAHEIM,CA,NC,9,5,New Business,Urban,129167
+KINGSLAND,TX,NC,84,1,New Business,Rural,83000
+MOAB,UT,UT,84,2,New Business,Rural,31458
+ROWLETT,TX,NC,46,2,Existing Business,Urban,13000
+BALTIMORE,MD,NC,84,1,New Business,Urban,20000
+PLANO,TX,NC,84,7,Existing Business,Urban,10000
+MIAMI,FL,NC,84,2,Existing Business,Urban,10000
+SAN ANTONIO,TX,SD,108,6,New Business,Urban,250000
+POMPANO BEACH,FL,NC,84,3,New Business,Urban,103260
+YUMA,AZ,NC,90,13,New Business,Urban,52329
+MEMPHIS,TN,MS,180,6,New Business,Urban,150000
+PORT ORANGE,FL,NC,84,6,Existing Business,Urban,50000
+TORRANCE,CA,NC,84,1,Existing Business,Rural,133313
+SALT LAKE CITY,UT,UT,20,8,New Business,Urban,71367
+Espanola,NM,VA,67,1,New Business,Urban,10000
+BENTON,AR,NC,84,2,Existing Business,Urban,12982
+IRVING,TX,NC,84,6,New Business,Urban,100000
+SALT LAKE CITY,UT,UT,84,1,New Business,Urban,7000
+HARRIMAN,TN,NC,68,1,New Business,Urban,45000
+FORT LAUDERDALE,FL,NC,23,4,Existing Business,Urban,19000
+SAN ANTONIO,TX,SD,60,0,Existing Business,Urban,19500
+SPOKANE,WA,NC,57,5,New Business,Urban,50000
+ARLINGTON,TX,NC,84,10,New Business,Urban,70000
+SAN DIEGO,CA,NC,53,2,New Business,Urban,8522
+HOMESTEAD,FL,NC,5,13,New Business,Urban,169356
+WEST BABYLON,NY,VA,9,7,New Business,Urban,25000
+IRVING,TX,NC,39,4,New Business,Urban,24000
+APACHE JUNCTION,AZ,NC,28,12,New Business,Urban,87460
+HEBER CITY,UT,UT,60,5,New Business,Rural,60000
+LOS ANGELES,CA,NC,84,1,Existing Business,Urban,15487
+NORWALK,CA,NC,84,2,Existing Business,Urban,36926
+DALLAS,TX,NC,55,3,New Business,Urban,15000
+TAMPA,FL,NC,84,14,New Business,Urban,87062
+JERSEY CITY,NJ,RI,36,1,Existing Business,Urban,30000
+Huntsville,AL,AL,84,69,New Business,Urban,180574
+FAIRPORT,NY,NY,60,3,Existing Business,Urban,75000
+CLEARFIELD,UT,UT,15,10,New Business,Urban,35000
+SANIBEL,FL,NC,84,4,New Business,Rural,33377
+NEWPORT BEACH,CA,NC,84,1,New Business,Urban,27500
+PHOENIX,AZ,NC,84,33,New Business,Urban,50000
+IRVINE,CA,NC,19,3,New Business,Urban,89229
+TAMPA,FL,NC,25,3,Existing Business,Urban,10000
+KANAB,UT,UT,84,5,New Business,Rural,122405
+WEST PALM BEACH,FL,NC,13,10,New Business,Urban,130166
+PARK CITY,UT,UT,84,4,New Business,Rural,140503
+WASHINGTON,UT,UT,84,1,New Business,Rural,53710
+LAMONT,CA,NC,84,5,New Business,Rural,109647
+SOUTH RIVER,NJ,RI,36,7,Existing Business,Urban,100000
+ASHBURN,VA,NC,84,4,Existing Business,Urban,12999
+PLANT CITY,FL,NC,47,2,Existing Business,Urban,57300
+LAS VEGAS,NV,NC,84,1,New Business,Urban,59002
+IDAHO FALLS,ID,UT,2,4,New Business,Rural,81374
+Prundale,CA,NC,12,8,New Business,Rural,59197
+ROCKVILLE,MD,NC,84,10,New Business,Urban,20000
+PORT ORCHARD,WA,NC,84,3,Existing Business,Urban,10000
+MIAMI,FL,NC,64,1,New Business,Urban,49675
+PUNTA GORDA,FL,NC,8,2,New Business,Rural,42570
+PROVO,UT,UT,84,4,New Business,Urban,100000
+WELLSVILLE,UT,UT,81,37,New Business,Rural,100000
+SAN FRANCISCO,CA,NC,41,1,New Business,Urban,10000
+FORT WORTH,TX,NC,44,1,New Business,Urban,48000
+Elkins,AR,NC,84,2,Existing Business,Rural,16512
+HARRISON,AR,NC,84,1,New Business,Urban,15000
+EL CAJON,CA,NC,84,4,Existing Business,Urban,10000
+WHITTIER,CA,NC,56,1,Existing Business,Urban,13600
+LAS VEGAS,NV,NC,84,1,New Business,Urban,10000
+JACKSONVILLE,FL,NC,32,10,New Business,Urban,100000
+HEBER CITY,UT,UT,84,4,New Business,Rural,100000
+TAMPA,FL,NC,75,1,Existing Business,Urban,10000
+LOS ANGELES,CA,NC,84,2,Existing Business,Urban,10000
+LA CANADA,CA,NC,58,3,Existing Business,Urban,10000
+TORRANCE,CA,NC,36,2,Existing Business,Urban,10000
+OGDEN,UT,UT,120,10,Existing Business,Urban,145000
+HUNTERSVILLE,NC,NC,84,1,New Business,Urban,13725
+PONCA CITY,OK,NC,84,3,New Business,Urban,37496
+ROUND ROCK,TX,TX,84,3,Existing Business,Undefined,150000
+MIDDLE VILLAGE,NY,RI,36,7,New Business,Urban,25000
+FOREST HILL,MD,NC,84,3,New Business,Rural,71348
+NORTH HILLS,CA,NC,84,5,Existing Business,Urban,105000
+LAKE WORTH,FL,NC,84,4,Existing Business,Urban,10000
+BROCKTON,MA,RI,36,5,New Business,Rural,12000
+SAINT PETERS,MO,NC,26,7,New Business,Urban,78662
+HUNTERSVILLE,NC,NC,31,6,New Business,Urban,50000
+MARIETTA,GA,NC,84,2,New Business,Urban,50000
+TUCKER,GA,NC,26,1,New Business,Urban,65000
+SOMERVILLE,MA,RI,36,1,Existing Business,Urban,14500
+BURTONSVILLE,MD,NC,84,2,New Business,Urban,79700
+SMITHFIELD,NC,NC,139,1,New Business,Undefined,99500
+PLYMOUTH,MA,RI,36,2,New Business,Urban,100000
+SALEM,MA,MA,240,27,New Business,Undefined,432000
+LITTLE FERRY,NJ,RI,36,4,Existing Business,Urban,100000
+NEW YORK,NY,RI,36,7,Existing Business,Urban,100000
+MOORESTOWN,NJ,RI,36,2,Existing Business,Urban,5000
+JERSEY CITY,NJ,RI,36,3,New Business,Urban,55000
+BROOKLYN,NY,RI,36,1,Existing Business,Urban,52500
+Sylvania,OH,VA,62,7,New Business,Urban,35000
+FREDERICK,OK,OK,120,29,Existing Business,Undefined,411000
+WOODBRIDGE,VA,NC,84,2,New Business,Rural,10000
+SYOSSET,NY,RI,7,9,Existing Business,Urban,75000
+Lexington Park,MD,VA,30,25,New Business,Rural,50000
+HIALEAH,FL,RI,41,3,New Business,Urban,49500
+FORT LAUDERDALE,FL,NC,24,2,New Business,Urban,20000
+FORSYTH,GA,NC,66,2,Existing Business,Urban,10000
+TAMPA,FL,NC,84,1,Existing Business,Urban,17326
+RIVERVIEW,FL,NC,84,1,New Business,Urban,10000
+MIAMI,FL,NC,84,2,New Business,Urban,50000
+Gardnerville,NV,VA,84,2,New Business,Rural,50000
+San Rafael,CA,VA,84,3,New Business,Urban,50000
+IMMOKALEE,FL,NC,84,3,New Business,Urban,16000
+MC EWEN,TN,NC,84,1,New Business,Urban,15000
+ATLANTA,GA,NC,84,1,Existing Business,Urban,13133
+MIAMI,FL,NC,84,4,Existing Business,Urban,10000
+HIALEAH,FL,NC,37,3,New Business,Urban,15000
+LAWRENCE,MA,RI,36,12,New Business,Urban,50000
+LOS ANGELES,CA,NC,84,30,Existing Business,Urban,101750
+BEL AIR,MD,NC,84,3,New Business,Urban,41472
+MARLBORO,NJ,RI,36,7,Existing Business,Urban,100000
+BETHPAGE,TN,NC,84,1,New Business,Rural,13400
+Boston,MA,VA,17,9,New Business,Urban,50000
+WASHINGTON,DC,NC,84,17,New Business,Urban,50000
+FORT LAUDERDALE,FL,NC,43,5,New Business,Urban,50000
+MIAMI,FL,NC,74,2,Existing Business,Urban,9000
+EDGEWOOD,MD,NC,84,1,Existing Business,Urban,22922
+ENGLEWOOD,FL,NC,84,1,New Business,Urban,23150
+SUMMERVILLE,GA,VA,25,3,New Business,Urban,25000
+CHARLOTTE,NC,VA,29,10,New Business,Urban,50000
+Windsor,VA,SD,13,12,Existing Business,Rural,123350
+VILLA RICA,GA,NC,96,1,Existing Business,Rural,136000
+ELLICOTT CITY,MD,NC,84,2,Existing Business,Urban,20000
+BRUNSWICK,OH,VA,16,36,New Business,Urban,50000
+Solon,OH,DE,60,4,Existing Business,Urban,14395
+HIALEAH,FL,NC,26,2,New Business,Urban,50910
+Solon,OH,OH,120,4,Existing Business,Urban,171000
+RANCHO SANTA MARGARITA,CA,NC,84,1,New Business,Urban,50000
+SUMTER,SC,NC,84,4,New Business,Rural,110000
+ALBANY,GA,NC,84,1,New Business,Urban,10000
+BOCA RATON,FL,NC,84,3,New Business,Urban,30000
+FORT LAUDERDALE,FL,NC,84,5,New Business,Urban,33000
+Clover,SC,SD,180,8,New Business,Rural,212000
+PORT CHARLOTTE,FL,FL,240,5,New Business,Undefined,223000
+BRENTWOOD,NH,NH,36,1,Existing Business,Undefined,24000
+INGLEWOOD,CA,NC,67,12,New Business,Urban,50000
+CICERO,NY,NY,84,20,Existing Business,Undefined,90000
+VERDI,NV,NC,84,25,New Business,Urban,62183
+TAMPA,FL,NC,84,40,Existing Business,Urban,11000
+GLENDALE,CA,VA,84,2,New Business,Urban,50000
+HOUSTON,TX,NC,67,4,New Business,Urban,50000
+KEMAH,TX,VA,84,1,New Business,Urban,25000
+PASSAIC,NJ,RI,36,4,Existing Business,Urban,50000
+SAN FRANCISCO,CA,VA,84,1,New Business,Urban,35000
+LOS ANGELES,CA,VA,45,5,New Business,Urban,50000
+ZEELAND,MI,VA,42,7,New Business,Urban,50000
+RICHARDSON,TX,NC,84,3,Existing Business,Urban,20000
+BUFORD,GA,NC,84,1,Existing Business,Urban,10000
+NEW YORK,NY,IL,49,8,New Business,Undefined,51062
+Black Diamond,WA,VA,31,6,New Business,Urban,50000
+Little Rock,AR,VA,84,40,New Business,Urban,10000
+LAS VEGAS,NV,NC,84,1,Existing Business,Urban,10000
+JAMAICA,NY,RI,36,5,Existing Business,Urban,45000
+OREM,UT,VA,84,8,New Business,Urban,35000
+ST. GEORGE,UT,OH,120,1,Existing Business,Undefined,129900
+Long City,NY,RI,60,4,Existing Business,Urban,32000
+WEST PALM BEACH,FL,NC,84,3,New Business,Urban,110151
+Baton Rouge,LA,VA,84,6,New Business,Urban,50000
+SAUGERTIES,NY,NY,61,12,New Business,Undefined,25000
+RICHFIELD,UT,UT,84,3,New Business,Rural,35100
+RED BLUFF,CA,CA,66,3,New Business,Undefined,100000
+RIO RANCHO,NM,NC,66,1,New Business,Urban,45000
+West Orange,NJ,SD,180,4,Existing Business,Rural,131300
+TRENTON,NJ,VA,23,4,New Business,Urban,50000
+CEDARHURST,NY,RI,36,2,Existing Business,Urban,10000
+SUNNY ISLES BEACH,FL,VA,58,2,New Business,Rural,10000
+RICHLAND,MS,MS,24,2,New Business,Rural,15300
+BREA,CA,VA,34,1,New Business,Urban,10000
+SALEM,MA,RI,36,2,Existing Business,Urban,24500
+NETLEY,NJ,VA,84,5,New Business,Urban,50000
+NEWARK,DE,PA,180,7,Existing Business,Undefined,395000
+PLYMOUTH,MI,VA,53,4,New Business,Urban,50000
+New York,NY,VA,20,4,New Business,Urban,50000
+CLEVELAND,OH,MD,96,2,Existing Business,Undefined,65000
+N RICHLND HLS,TX,VA,11,6,New Business,Urban,25000
+ORANGE,VA,VA,84,11,New Business,Rural,35000
+SAINT GEORGE,UT,UT,84,1,New Business,Rural,48252
+NAPLES,FL,NC,84,1,New Business,Urban,20000
+AUSTIN,TX,NV,180,29,New Business,Undefined,1000000
+HAMPTON,NH,VA,84,1,New Business,Urban,50000
+ONTARIO,CA,VA,84,23,New Business,Urban,50000
+SAVANNAH,GA,VA,26,2,New Business,Urban,25000
+Burlingame,CA,VA,84,3,New Business,Urban,50000
+Napa,CA,VA,44,4,New Business,Urban,50000
+YREKA,CA,VA,84,4,New Business,Urban,25000
+Manassas,VA,VA,84,7,New Business,Rural,50000
+Gramercy,LA,VA,84,3,New Business,Urban,50000
+GAITHERSBURG,MD,NC,84,1,Existing Business,Urban,10000
+Cumming,GA,VA,84,2,New Business,Urban,25000
+Thornville,OH,OH,48,6,New Business,Rural,45000
+Summerville,SC,VA,84,1,New Business,Urban,25000
+LEMOYNE,PA,PA,41,2,Existing Business,Urban,15000
+New Britain,CT,DE,16,2,New Business,Urban,25000
+CHICAGO,IL,IL,84,10,Existing Business,Undefined,50000
+DERBY,KS,NC,84,6,New Business,Rural,50000
+FORT LAUDERDALE,FL,NC,84,12,New Business,Urban,100000
+ALBUQUERQUE,NM,VA,84,3,New Business,Urban,50000
+BELLINGHAM,WA,WA,84,18,Existing Business,Undefined,70000
+NASHUA,NH,RI,36,2,Existing Business,Urban,15500
+GRIFFIN,GA,NC,164,1,Existing Business,Rural,150000
+SNYDER,TX,TX,84,3,Existing Business,Undefined,180000
+ALEXANDRIA,VA,NC,84,1,New Business,Urban,44000
+SNYDER,TX,TX,180,3,Existing Business,Undefined,70000
+RIDGEWOOD,NY,RI,36,4,New Business,Urban,45000
+INDIANAPOLIS,IN,IL,123,4,Existing Business,Urban,70400
+FAR ROCKAWAY,NY,NC,84,1,New Business,Urban,42500
+DENVER,CO,IL,60,2,New Business,Urban,19200
+ABILENE,TX,TX,60,6,Existing Business,Undefined,85000
+PHILADELPHIA,PA,VA,44,8,New Business,Urban,35000
+ROLLING MEADOWS,IL,OH,84,5,New Business,Undefined,25000
+POMPANO BEACH,FL,NC,57,7,New Business,Urban,59644
+REDMOND,WA,WA,60,5,Existing Business,Undefined,50000
+Wormleysburg,PA,PA,34,2,Existing Business,Urban,34947
+CARY,NC,NC,84,6,New Business,Urban,30000
+LOS GATOS,CA,VA,84,14,New Business,Urban,50000
+HOLYOKE,MA,RI,36,3,New Business,Urban,13500
+PRESIDIO,TX,TX,19,5,Existing Business,Undefined,30000
+Vernon,CT,VA,84,2,New Business,Urban,50000
+TRAVERSE CITY,MI,MI,84,1,New Business,Undefined,20000
+ATLANTA,GA,NC,69,3,New Business,Urban,50000
+Clifton,CO,VA,67,3,New Business,Urban,25000
+New Albany,IN,VA,84,1,New Business,Urban,10000
+DOYLESTOWN,OH,OH,2,1,New Business,Rural,93500
+Vista,CA,VA,84,4,New Business,Urban,50000
+HOLLYWOOD,FL,NC,51,1,New Business,Urban,160000
+VIRGINIA BEACH,VA,VA,24,1,New Business,Urban,50000
+WATERFORD,NY,RI,36,1,New Business,Urban,5000
+WATERFORD,NY,NC,48,1,New Business,Urban,5000
+FALL RIVER,MA,MA,40,1,New Business,Urban,36704
+South Euclid,OH,OH,60,1,New Business,Urban,120832
+MORROW,GA,NC,29,1,New Business,Urban,50000
+MINNEAPOLIS,MN,IL,84,2,Existing Business,Urban,50000
+Campbellsports,WI,VA,84,2,New Business,Urban,25000
+ALOHA,OR,NC,84,2,New Business,Urban,5000
+Hutchinson,KS,VA,46,3,New Business,Rural,25000
+CRANBERRY TOWNSHIP,PA,PA,60,6,New Business,Undefined,27000
+SCHAUMBURG,IL,VA,84,2,Existing Business,Urban,35000
+Washington,DC,VA,84,1,New Business,Urban,50000
+ROANOKE,AL,VA,43,3,New Business,Rural,25000
+DOTHAN,AL,AL,240,10,New Business,Undefined,250000
+SOUTH ELGIN,IL,VA,84,25,New Business,Urban,50000
+EDEN,MD,VA,84,3,New Business,Urban,50000
+FORDVILLE,ND,VA,44,2,New Business,Rural,35000
+Cortland,NY,VA,84,3,New Business,Urban,25000
+Leominster,MA,VA,84,1,New Business,Urban,25000
+PEORIA,IL,IL,84,0,Existing Business,Urban,125000
+MENOMONEE FALLS,WI,WI,240,31,New Business,Undefined,740000
+WARREN,MI,VA,84,3,New Business,Urban,35000
+Anniston,AL,VA,84,6,New Business,Rural,35000
+GREENSBORO,NC,VA,84,16,New Business,Urban,35000
+MIAMI,FL,FL,240,23,New Business,Undefined,369000
+LOS ANGELES,CA,NC,84,1,Existing Business,Urban,10000
+Dumont,NJ,VA,24,2,New Business,Urban,50000
+DANIA,FL,VA,84,13,New Business,Rural,25000
+TAMPA,FL,NC,61,7,New Business,Urban,28200
+MIDWAY,UT,UT,84,5,New Business,Rural,80388
+VERGENNES,VT,VT,60,21,New Business,Undefined,200000
+BELLEVUE,NE,VA,62,1,New Business,Urban,10000
+LAS CRUCES,NM,NM,84,2,Existing Business,Undefined,15000
+Northfield,NJ,VA,6,4,New Business,Urban,50000
+SAN ANTONIO,TX,VA,84,6,New Business,Urban,50000
+PENN,PA,DE,180,1,New Business,Undefined,48000
+SEATTLE,WA,NC,113,12,New Business,Urban,60000
+SOUTH EL MONTE,CA,NC,84,5,New Business,Urban,40000
+GARDEN CITY,UT,UT,84,15,New Business,Rural,59213
+SACRAMENTO,CA,NC,31,4,New Business,Urban,50000
+DUCHESNE,UT,VA,84,6,New Business,Rural,35000
+FLORISSANT,MO,MO,120,8,New Business,Undefined,145000
+HAUPPAUGE,NY,RI,36,20,New Business,Urban,87000
+FOMBELL,PA,DE,96,2,Existing Business,Undefined,20000
+VALDOSTA,GA,NC,34,1,New Business,Urban,62000
+CHICAGO,IL,VA,84,5,New Business,Urban,50000
+SLIDELL,LA,VA,84,4,New Business,Urban,50000
+PITTSBURGH,PA,DE,84,3,Existing Business,Undefined,50000
+LARIMER,PA,PA,48,1,Existing Business,Undefined,36000
+SAN FRANCISCO,CA,NC,84,4,New Business,Urban,49100
+JACKSON,LA,MS,84,1,New Business,Undefined,100000
+SANTEE,CA,VA,84,6,New Business,Urban,10000
+ROHNERT PARK,CA,NC,84,4,New Business,Urban,15000
+AUGUSTA,GA,NC,84,1,New Business,Urban,38000
+POMPANO BEACH,FL,NC,84,1,New Business,Urban,46702
+ELMIRA,CA,NC,84,5,New Business,Urban,31500
+NOKOMIS,FL,NC,26,3,New Business,Urban,50000
+LOS ANGELES,CA,NC,48,1,Existing Business,Urban,10000
+Evansville,IN,VA,84,2,New Business,Rural,25000
+COLUMBIA,MD,NC,84,4,Existing Business,Urban,10000
+WESLEY CHAPEL,FL,NC,84,1,Existing Business,Urban,10000
+RED HOOK,NY,RI,36,5,Existing Business,Urban,46500
+RANDALLSTOWN,MD,NC,84,7,New Business,Urban,72122
+BUFORD,GA,NC,84,1,New Business,Urban,25000
+San Leandro,CA,VA,84,1,New Business,Urban,50000
+NORTH PORT,FL,NC,84,27,New Business,Urban,50000
+JACKSONVILLE,FL,SC,60,18,Existing Business,Undefined,50000
+Opp,AL,VA,19,8,New Business,Rural,25000
+SALT LAKE CITY,UT,UT,84,1,Existing Business,Urban,214827
+LOGAN,UT,UT,84,13,New Business,Rural,100000
+MANITOWOC,WI,WI,120,1,Existing Business,Undefined,35000
+UPPER MARLBORO,MD,NC,84,10,New Business,Urban,30198
+Toledo,OH,OH,60,2,New Business,Urban,19892
+SEATTLE,WA,NC,84,8,New Business,Urban,35000
+SANTA CLARA,CA,NC,84,23,New Business,Urban,78000
+GLEN FLORA,WI,WI,8,1,New Business,Undefined,100000
+Port Clinton,OH,DE,41,1,New Business,Rural,45504
+Granger,IN,IN,60,2,New Business,Rural,127243
+Chicago,IL,IL,60,1,New Business,Urban,35911
+ABILENE,TX,TX,240,16,New Business,Undefined,57000
+Grayslake,IL,IL,60,1,New Business,Rural,10000
+Portage,MI,IL,60,1,New Business,Rural,10000
+Muskegon,MI,DE,3,3,Existing Business,Urban,57186
+GILMAN CITY,MO,MO,120,3,Existing Business,Undefined,61400
+Libertyville,IL,IL,60,5,Existing Business,Rural,31222
+Denver,CO,VA,84,10,New Business,Urban,100000
+FARMINGDALE,NJ,RI,36,3,New Business,Urban,40700
+Milford,CT,VA,84,1,New Business,Urban,25000
+Lee's Summit,MO,VA,26,2,New Business,Urban,25000
+Hailey,ID,VA,84,9,New Business,Urban,35000
+Montpelier,VT,VA,25,6,New Business,Urban,50000
+WICHITA,KS,KS,60,2,Existing Business,Undefined,59500
+Cheshore,CT,VA,31,14,New Business,Urban,50000
+MT. VERNON,WA,WA,240,6,New Business,Undefined,114000
+BALTIMORE,MD,NC,40,6,Existing Business,Urban,10000
+NEWPORT BEACH,CA,CA,96,10,Existing Business,Undefined,85000
+WEST HARTFORD,CT,RI,36,1,Existing Business,Urban,22000
+MIAMI BEACH,FL,NC,84,1,New Business,Urban,25576
+SAINT PETERSBURG,FL,CA,300,20,New Business,Undefined,267000
+HIALEAH,FL,NC,27,4,New Business,Urban,70000
+SILVER SPRINGS,NV,CA,180,12,New Business,Undefined,280000
+SANTA ANA,CA,CA,300,5,New Business,Undefined,445000

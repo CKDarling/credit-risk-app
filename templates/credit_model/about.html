@@ -1,0 +1,39 @@
+{% extends 'credit_model/base.html' %}
+{% block body_block %}
+
+<center>
+<h2>About the Project</h2>
+</center>
+<hr>
+
+<h3 style='font-weight:bold;'>
+  What is Credit Risk Modeling?
+</h3>
+
+  <br><br>
+
+<h4  style='line-height: 1.6;'>
+  Put simply, credit risk modeling relates to the task of predicting whether a loan will default based on the variables related to the loan itself.
+  Such a task is rather important in the finance industry, due to the capital at risk in the loan.
+  Over the last few decades, the utilization of data science and algorithms to predict a loan recipient's outcome have become immensely relevent.
+  Data science approaches allow banks to utilize unbiased methods to approve, and not approve, of potential loans based on what the models probabilistically display.
+  If you're interested in knowing more about credit risk modeling, <a href="https://www.heroku.com" target="_blank">here is a more extensive discussion</a>
+  on what credit risk modeling really is.
+</h4>
+<br>
+<h3 style='font-weight:bold;'>
+   What's under the hood?
+</h3>
+<br><br>
+
+<h4  style='line-height: 1.6;'>
+    What you interact with here is a pre-trained model placed into production utilizing
+    <a href="https://www.heroku.com" target="_blank"> Heroku</a> and the <a href="https://www.djangoproject.com" target="_blank">python web-framework, Django</a>.
+    Through the utilization of these tools, we have been able to deploy a random forest classification model based on data provided by Dr. Brent Albrecht.
+    Our model was iteratively trained through an extensive process which resulted in our choice of the variables you see on the
+    <a href="{% url 'credit_model:model_input' %}">model</a> page. Our model works to utilze your input, make a probability prodiction of default, and returns it to you.
+    While our model is trained and ready to use, we are not ourselves qualified to deliver loan adequacy advise from this model alone, due to our limited data pool.
+    In turn, we also do not lay claim to any of the loan outcomes you see from this model. <span style ='color:#BE1E2D'>Use at your own risk</span>. We would also like to reiterate,
+    that this dataset is based in the past and most likely does not reflect current loan environments.
+</h4>
+{% endblock %}

@@ -1,0 +1,109 @@
+{% extends 'credit_model/base.html' %}
+{% load bootstrap4 %}
+{% block body_block %}
+<div class="container">
+<h1>Loan Information</h1>
+<hr>
+<h5>
+  <span style='color:#BE1E2D'> Disclaimer: </span>
+  This model was developed utilizing a small sample set. The results of this model are limited to the insights derived from the data
+  on hand and may not reflect true outcomes.
+</h5>
+<br>
+<p>
+  Please fill out this form to the best of your ability. This information is essential for the model to return an adequate prediction.
+ </p>
+
+<form method="post" action="" id='ModelForm' data-cities-url="{% url 'credit_model:ajax_load_cities' %}" novalidate >
+{% csrf_token %}
+<div class="row">
+  <div class="col-sm-6">
+    <br>
+    <label>Loan Term Length in Months (Max 360 Months):</label>
+    <br>
+    {{form.term}}
+  </div>
+  <div class="col-sm-6">
+    <br>
+    <label>Loan Amount (Max 3,600,000):</label>
+    <br>
+    {{form.disbursement_gross}}
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-6">
+    <br>
+    <label>Urban or Rural Business Location:</label>
+    <br>
+    {{form.urban_rural}}
+  </div>
+  <div class="col-sm-6">
+    <br>
+    <label>New Company or Existing Company:</label>
+    <br>
+    {{form.new_exist}}
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-6">
+    <br>
+    <label>State of Loan Recipient:</label>
+    <br>
+    {{form.state}}
+  </div>
+  <div class="col-sm-6">
+    <br>
+    <label>City of Loan Recipient:</label>
+    <br>
+    {{form.city}}
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-6">
+    <br>
+    <label>Number of Employees:</label>
+    <br>
+    {{form.number_emp}}
+  </div>
+  <div class="col-sm-6">
+    <br>
+    <label>Loan Issuer State:</label>
+    <br>
+    {{form.bank_state}}
+  </div>
+</div>
+<br>
+<input type="submit"value="Submit" class="button">
+
+</form>
+<br>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+{% if successful_model_post == 0 %}
+<script>
+  alert('{{ invalid_model_input }}');
+</script>
+{% endif %}
+
+<script>
+  $("#id_state").change(function () {
+    var url = $("#ModelForm").attr("data-cities-url");  // get the url of the `load_cities` view
+    var stateId = $(this).val();  // get the selected country ID from the HTML input
+
+    $.ajax({                       // initialize an AJAX request
+      url: url,                    // set the url of the request (= localhost:8000/hr/ajax/load-cities/)
+      data: {
+        'state': stateId       // add the country id to the GET parameters
+      },
+      success: function (data) {   // `data` is the return of the `load_cities` view function
+        $("#id_city").html(data);  // replace the contents of the city input with the data that came from the server
+      }
+    });
+
+  });
+
+
+
+</script>
+{% endblock %}

@@ -1,0 +1,492 @@
+/* line 2, static/css/main.scss */
+* {
+  font-family: 'azo-sans-web', sans-serif;
+  margin: 0; }
+
+@font-face {
+  font-family: 'azo-sans-web', sans-serif;
+  font-weight: 300;
+  font-style: normal; }
+
+/* line 11, static/css/main.scss */
+body {
+  line-height: 1;
+  font-family: 'urbane', sans-serif;
+  height: 100%;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  background-color: #474747 !important;
+  color: #fff; }
+  @media (min-width: 1500px) {
+    /* line 11, static/css/main.scss */
+    body {
+      font-size: 17px; } }
+  @media (min-width: 240px) and (max-width: 767px) {
+    /* line 11, static/css/main.scss */
+    body {
+      padding-top: 50px;
+      padding-bottom: 30px;
+      font-size: 14px; } }
+/* line 31, static/css/main.scss */
+.nav-link {
+  color: #fff !important; }
+  /* line 33, static/css/main.scss */
+  .nav-link:hover {
+    color: #1B9591 !important;
+    opacity: 0.8;
+    transition: 0.3s; }
+
+/* line 40, static/css/main.scss */
+.nav-item {
+  text-align: right; }
+
+@media (min-width: 1500px) {
+  /* line 43, static/css/main.scss */
+  .nav-container {
+    padding-left: 30px;
+    padding-right: 30px; } }
+
+@media (min-width: 240px) and (max-width: 767px) {
+  /* line 43, static/css/main.scss */
+  .nav-container {
+    padding-left: 5px;
+    padding-right: 5px; } }
+
+@media (min-width: 1500px) {
+  /* line 54, static/css/main.scss */
+  #footer_disclaimer {
+    font-size: 17px; } }
+
+@media (min-width: 240px) and (max-width: 767px) {
+  /* line 54, static/css/main.scss */
+  #footer_disclaimer {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 14px; } }
+
+/* line 66, static/css/main.scss */
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); }
+
+/* line 70, static/css/main.scss */
+.navbar-toggler {
+  float: right !important;
+  width: 47px;
+  height: 34px;
+  background-color: #1B9591; }
+  /* line 76, static/css/main.scss */
+  .navbar-toggler .line {
+    width: 100%;
+    float: left;
+    height: 2px;
+    background-color: #000;
+    margin-bottom: 5px; }
+
+/* line 84, static/css/main.scss */
+.circletag {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: #E6E7ED;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  text-align: center; }
+
+/* line 94, static/css/main.scss */
+.circletag img {
+  margin-top: 7px; }
+
+/* line 99, static/css/main.scss */
+.picture_container {
+  width: auto;
+  text-align: center;
+  padding: 20px; }
+
+/* line 105, static/css/main.scss */
+.graph_container {
+  width: auto;
+  text-align: center;
+  object-fit: contain; }
+
+/* line 111, static/css/main.scss */
+.general_pics {
+  align-content: center;
+  width: 75%;
+  height: 75%;
+  object-fit: contain; }
+
+/* line 119, static/css/main.scss */
+.services {
+  width: 35%;
+  height: 35%;
+  object-fit: contain;
+  padding: 2%; }
+
+/* line 126, static/css/main.scss */
+.services_titles {
+  padding-bottom: 3%;
+  text-decoration: underline; }
+
+/* line 131, static/css/main.scss */
+.logo {
+  text-align: center;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  object-fit: contain;
+  padding: 1%;
+  align-content: center; }
+
+/* line 141, static/css/main.scss */
+.btn .btn-primary {
+  background-color: #1B9591 !important;
+  color: #000; }
+
+/* line 146, static/css/main.scss */
+.card-body {
+  background-color: #474747; }
+
+/* line 150, static/css/main.scss */
+.button {
+  background-color: #fff;
+  border-radius: 3px;
+  color: #000 !important;
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  letter-spacing: initial;
+  display: inline-block;
+  border-radius: 3px;
+  padding: 2px 10px;
+  line-height: 1.5rem;
+  border: none;
+  cursor: pointer; }
+  /* line 165, static/css/main.scss */
+  .button:hover {
+    background-color: #1B9591;
+    color: #fff !important; }
+  @media (min-width: 1500px) {
+    /* line 150, static/css/main.scss */
+    .button {
+      font-size: 1rem; }
+      /* line 171, static/css/main.scss */
+      .button svg {
+        position: relative;
+        top: 0px; } }
+  /* line 176, static/css/main.scss */
+  .button svg {
+    display: inline-block;
+    margin-right: 5px; }
+  @media (min-width: 240px) and (max-width: 767px) {
+    /* line 150, static/css/main.scss */
+    .button {
+      font-size: 10px; } }
+  /* line 184, static/css/main.scss */
+  .button svg {
+    display: inline-block;
+    margin-right: 5px; }
+
+/* line 190, static/css/main.scss */
+hr {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #1B9591; }
+
+/* line 196, static/css/main.scss */
+.logo:hover {
+  opacity: 0.6;
+  transition: 0.3s; }
+
+/* line 201, static/css/main.scss */
+.my_links {
+  color: #1B9591; }
+  /* line 203, static/css/main.scss */
+  .my_links:hover {
+    color: #fff !important;
+    text-decoration: underline;
+    opacity: 0.6;
+    transition: 0.3s; }
+
+/* line 211, static/css/main.scss */
+ul {
+  list-style: none;
+  /* Remove default bullets */ }
+
+/* line 215, static/css/main.scss */
+.custom_dots::before {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #5FB4B2;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  width: 1em;
+  /* Also needed for space (tweak if needed) */
+  margin-left: -1em;
+  /* Also needed for space (tweak if needed) */ }
+
+/* line 224, static/css/main.scss */
+a {
+  color: #1B9591 !important; }
+
+@media (min-width: 1500px) {
+  /* line 228, static/css/main.scss */
+  .breadcrumb-ckd {
+    font-size: 20px; } }
+
+@media (min-width: 240px) and (max-width: 767px) {
+  /* line 228, static/css/main.scss */
+  .breadcrumb-ckd {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-size: 14px; } }
+
+/* line 240, static/css/main.scss */
+.narrow-select {
+  width: 80%; }
+
+/* line 242, static/css/main.scss */
+#footer_cols {
+  color: #1B9591 !important;
+  text-align: center; }
+
+/* line 247, static/css/main.scss */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+
+/* line 253, static/css/main.scss */
+.heading {
+  font-size: 20px;
+  color: #fff;
+  padding: 5px 0 5px 10px; }
+
+/* line 259, static/css/main.scss */
+#base_header {
+  color: #000 !important; }
+  /* line 261, static/css/main.scss */
+  #base_header:hover {
+    color: #1B9591 !important;
+    opacity: 0.6;
+    transition: 0.3s; }
+
+/* line 268, static/css/main.scss */
+#footer {
+  padding-top: 3%;
+  background-color: #000;
+  padding-bottom: 2%;
+  position: relative; }
+
+/* line 274, static/css/main.scss */
+#holder {
+  position: relative;
+  padding-bottom: 47px; }
+
+/* line 279, static/css/main.scss */
+#body {
+  /* height of footer */
+  padding-left: 5% !important;
+  padding-right: 5% !important; }
+
+/* line 285, static/css/main.scss */
+tbody {
+  color: white; }
+
+@media (min-width: 240px) and (max-width: 767px) {
+  /* line 289, static/css/main.scss */
+  .cm_pag {
+    font-size: 8px; } }
+
+/* line 295, static/css/main.scss */
+.cm_pag .pagination > li > a {
+  border: 1px solid #1B9591;
+  background: #474747;
+  color: #1B9591 !important; }
+
+/* line 300, static/css/main.scss */
+.page-item.active > a, .page-item > a:hover {
+  background-color: black !important;
+  border: 1px solid #1B9591 !important;
+  color: white !important; }
+
+/* line 307, static/css/main.scss */
+.filter_row {
+  margin-top: 10px; }
+  /* line 309, static/css/main.scss */
+  .filter_row .card {
+    border: 1px solid #ccc; }
+    /* line 311, static/css/main.scss */
+    .filter_row .card .card-body {
+      padding: 0px 0; }
+      /* line 313, static/css/main.scss */
+      .filter_row .card .card-body .card-title {
+        background: #1B9591;
+        padding: 4px 10px;
+        font-weight: 600;
+        font-size: 1rem;
+        color: white; }
+      /* line 320, static/css/main.scss */
+      .filter_row .card .card-body .form-group {
+        margin-bottom: 10px; }
+        /* line 322, static/css/main.scss */
+        .filter_row .card .card-body .form-group label {
+          color: white;
+          font-size: 0.85rem;
+          font-weight: 600;
+          text-transform: none; }
+        /* line 328, static/css/main.scss */
+        .filter_row .card .card-body .form-group .form-control {
+          border-radius: 1;
+          box-shadow: none;
+          font-size: 0.85rem; }
+        /* line 333, static/css/main.scss */
+        .filter_row .card .card-body .form-group.buttons_row {
+          margin-top: 30px; }
+  /* line 339, static/css/main.scss */
+  .filter_row .table_container_row {
+    margin-top: 0; }
+
+/* line 344, static/css/main.scss */
+.primary_btn {
+  background: #1B9591;
+  color: #fff !important;
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  letter-spacing: initial;
+  display: inline-block;
+  border-radius: 3px;
+  padding: 2px 10px;
+  line-height: 1.5rem;
+  bordeR: none;
+  cursor: pointer; }
+  /* line 358, static/css/main.scss */
+  .primary_btn:hover {
+    opacity: .8; }
+  @media (min-width: 1500px) {
+    /* line 344, static/css/main.scss */
+    .primary_btn {
+      font-size: 1rem; }
+      /* line 361, static/css/main.scss */
+      .primary_btn svg {
+        position: relative;
+        top: 0px; } }
+  /* line 366, static/css/main.scss */
+  .primary_btn svg {
+    display: inline-block;
+    margin-right: 5px; }
+
+/* line 371, static/css/main.scss */
+.table_container_row {
+  margin-top: 10px; }
+  /* line 373, static/css/main.scss */
+  .table_container_row .card {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    background: #474747; }
+    /* line 378, static/css/main.scss */
+    .table_container_row .card .card-title {
+      padding: 5px 10px !important;
+      background: #000;
+      color: white !important;
+      font-size: 1rem;
+      margin-bottom: 0;
+      font-weight: 600;
+      line-height: 2.3rem; }
+      /* line 386, static/css/main.scss */
+      .table_container_row .card .card-title.title_lh {
+        line-height: 2rem; }
+      /* line 389, static/css/main.scss */
+      .table_container_row .card .card-title .dropdown {
+        display: inline-block; }
+        /* line 391, static/css/main.scss */
+        .table_container_row .card .card-title .dropdown .dropdown-toggle {
+          background: #fff;
+          font-size: 12px;
+          color: #fff;
+          border-radius: 0;
+          border: none; }
+      /* line 399, static/css/main.scss */
+      .table_container_row .card .card-title .mark_read {
+        background: #fff;
+        display: inline-block;
+        padding: 6px 10px;
+        margin-left: 6px;
+        color: #fff; }
+        /* line 405, static/css/main.scss */
+        .table_container_row .card .card-title .mark_read:hover {
+          background: #fff;
+          color: #fff;
+          text-decoration: none; }
+      /* line 411, static/css/main.scss */
+      .table_container_row .card .card-title .total_count {
+        margin-top: 0px;
+        color: #fff; }
+    /* line 416, static/css/main.scss */
+    .table_container_row .card .card-body {
+      padding: 0px 0px; }
+      /* line 418, static/css/main.scss */
+      .table_container_row .card .card-body table {
+        border: none;
+        margin-bottom: 0; }
+        /* line 423, static/css/main.scss */
+        .table_container_row .card .card-body table thead tr th {
+          color: white !important;
+          font-weight: 900;
+          font-size: 0.9rem;
+          border: none;
+          text-align: left;
+          padding: 6px;
+          border-bottom: 1px solid #f1f1f5; }
+        /* line 436, static/css/main.scss */
+        .table_container_row .card .card-body table tbody tr td {
+          vertical-align: middle;
+          color: white !important;
+          font-size: 0.83rem;
+          text-align: left;
+          font-weight: 500;
+          padding: 7px 5px;
+          border-bottom: 1px solid #f1f1f5; }
+          @media (min-width: 1500px) {
+            /* line 436, static/css/main.scss */
+            .table_container_row .card .card-body table tbody tr td {
+              font-size: 1rem; } }
+          /* line 447, static/css/main.scss */
+          .table_container_row .card .card-body table tbody tr td a {
+            color: white;
+            font-size: 0.85rem; }
+            /* line 450, static/css/main.scss */
+            .table_container_row .card .card-body table tbody tr td a:hover {
+              color: #fff;
+              text-decoration: underline; }
+          /* line 456, static/css/main.scss */
+          .table_container_row .card .card-body table tbody tr td .dropdown .dropdown-toggle {
+            background: #fff;
+            font-size: 12px;
+            color: #fff;
+            border-radius: 0;
+            border: none; }
+          /* line 466, static/css/main.scss */
+          .table_container_row .card .card-body table tbody tr td.actions a.box {
+            line-height: 1.5rem;
+            width: 1.65rem;
+            height: 1.65rem; }
+
+/* line 482, static/css/main.scss */
+.page-item.active > a, .page-item > a:hover {
+  background-color: black !important;
+  border: 1px solid #1B9591 !important;
+  color: white !important; }
+
+/* line 487, static/css/main.scss */
+.btn.btn-primary.save {
+  background: #000 !important;
+  border: 1px solid #1B9591 !important;
+  color: #fff !important; }

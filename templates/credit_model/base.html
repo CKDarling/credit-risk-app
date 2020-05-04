@@ -1,0 +1,88 @@
+{% load static %}
+{% load compress %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155055795-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-155055795-3');
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://use.typekit.net/yld2snq.css">
+<script src="https://kit.fontawesome.com/0d75512ab8.js" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+  <title>Credit Risk Modeling</title>
+
+  {% compress css %}
+  <link rel="stylesheet" href="{% static 'css/main.scss'%}" type="text/x-scss"/>
+  {% endcompress %}
+</head>
+<body>
+ <div id='holder'>
+   <div class="container">
+      <a href="http://www.inferencearchitects.com" style='text-align:center;' class='logo'>
+        <img src="{% static 'IA_Logo.png'%}" alt="aw shucks">
+      </a>
+   </div>
+   <br>
+  <div class="container" style='background-color:#474747;'>
+  <header>
+    <div class="nav-container">
+      <nav class="navbar navbar-expand-md">
+        <a href="/">
+          <h4 style='color:#1B9591'>Credit Risk Modeling</h4>
+        </a>
+            <button class="navbar-toggler"
+                    data-target="#navbarSupportedContent"
+                    data-toggle="collapse">
+                    <span class="line"></span>
+                    <span class="line"></span>
+            </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <br>
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class='nav-link' href="/"><h4>Home</h4></a>
+              </li>
+              <li class="nav-item">
+                <a class='nav-link' href="{% url 'credit_model:about' %}"><h4>Description</h4></a>
+              </li>
+              <li class="nav-item">
+                <a class='nav-link' href="{% url 'credit_model:fed_data' %}"><h4>Federal Reserve Data</h4></a>
+              </li>
+              <li class="nav-item">
+                <a class='nav-link' href="{% url 'credit_model:model_input' %}"><h4>Model</h4></a>
+              </li>
+            </ul>
+          </div>
+      </nav>
+      </div>
+    </header>
+    <br>
+    <div id='body' style='padding-top:2%;'>
+      {% block body_block %}
+      {% endblock %}
+    </div>
+    <br>
+    <div class="row" style='padding-top:3%;background-color:#000;padding-bottom:2%;position:relative;'>
+          <div class="col-sm-6" id='footer_cols'>
+            <p>Contact: +1-801-641-6834</p>
+          </div>
+          <div class="col-sm-6" id='footer_cols'>
+            <a href="mailto:ckinkadedarling@gmail.com" target="_blank">
+              <p>Send us a message!</p>
+            </a>
+          </div>
+          <h6 class = 'col-sm-12'style="color:#474747;text-align:center;" id='footer_disclaimer'> &copy; 2020 | Inference Architects, LLC | All Rights Reserved</h6>
+        </div>
+    </div>
+  </div>
+</body>
+</html>

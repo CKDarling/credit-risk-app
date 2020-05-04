@@ -1,0 +1,500 @@
+@import "ref.scss";
+*{
+  font-family: 'azo-sans-web', sans-serif;
+  margin:0;
+}
+@font-face {
+  font-family: 'azo-sans-web', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+body {
+  line-height: 1;
+  font-family: 'urbane', sans-serif;
+  height: 100%;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  // background-image: url("/static/berlin.jpg"); # This is a nono for django. Don't do ever again.
+  background-color: $lucky_gray!important;
+  color:$white;
+  @media(min-width:$large){
+     font-size:17px;
+   }
+  @media(min-width: $mob_min) and (max-width:$smob_max){
+     padding-top: 50px;
+     padding-bottom: 30px;
+     font-size:14px;
+  }
+}
+
+.nav-link{
+  color:$white!important;
+  &:hover{
+    color:$deep_blue!important;
+      opacity: 0.8;
+      transition: 0.3s;
+    }
+ }
+
+ .nav-item{
+     text-align: right;
+ }
+.nav-container{
+  @media(min-width:$large){
+    padding-left:30px;
+    padding-right:30px;
+   }
+  @media(min-width: $mob_min) and (max-width:$smob_max){
+    padding-left:5px;
+    padding-right:5px;
+  }
+}
+
+#footer_disclaimer{
+  @media(min-width:$large){
+     font-size:17px;
+   }
+  @media(min-width: $mob_min) and (max-width:$smob_max){
+     padding-top: 50px;
+     padding-bottom: 30px;
+     font-size:14px;
+  }
+}
+
+// toggle button settings ----------------------------------------------------------------
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.navbar-toggler{
+  float: right !important;
+    width: 47px;
+    height: 34px;
+    background-color: $deep_blue;
+
+        .line {
+      width: 100%;
+      float: left;
+      height: 2px;
+      background-color: $black;
+      margin-bottom: 5px;
+    }
+}
+.circletag {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background: #E6E7ED;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    text-align:center;
+}
+
+.circletag img{
+    margin-top:7px;
+}
+
+
+.picture_container{
+    width:auto;
+    text-align:center;
+    padding:20px;
+}
+
+.graph_container{
+    width:auto;
+    text-align:center;
+    object-fit: contain;
+}
+
+.general_pics{
+  align-content: center;
+  width: 75%;
+  height: 75%;
+  object-fit: contain;
+}
+
+
+.services {
+  width: 35%;
+  height: 35%;
+  object-fit: contain;
+  padding:2%;
+}
+
+.services_titles{
+  padding-bottom:3%;
+  text-decoration:underline;
+}
+
+.logo {
+  text-align: center;
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  object-fit: contain;
+  padding:1%;
+  align-content:center;
+}
+
+.btn  .btn-primary {
+  background-color: $deep_blue!important;
+  color: $black;
+}
+
+.card-body {
+  background-color:$lucky_gray;
+}
+
+.button {
+  background-color:$white;
+  border-radius: 3px;
+  color: $black !important;
+  border:none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  letter-spacing: initial;
+  display: inline-block;
+  border-radius: 3px;
+  padding: 2px 10px;
+  line-height: 1.5rem;
+  border: none;
+  cursor: pointer;
+  &:hover{
+    background-color:$deep_blue;
+    color:$white!important;
+  }
+  @media(min-width:$large){
+    font-size:1rem;
+    svg{
+      position: relative;
+      top: 0px;
+    }
+  }
+  svg{
+    display: inline-block;
+    margin-right: 5px;
+  }
+
+  @media(min-width: $mob_min) and (max-width: $smob_max){
+    font-size:10px;
+  }
+  svg{
+    display: inline-block;
+    margin-right: 5px;
+  }
+}
+
+hr{
+margin-left: auto;
+margin-right: auto;
+background-color:$deep_blue;
+}
+
+.logo:hover{
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.my_links{
+  color:$deep_blue;
+  &:hover{
+    color:$white!important;
+    text-decoration: underline;
+    opacity: 0.6;
+    transition: 0.3s;
+  }
+}
+
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+.custom_dots::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: $faded_deep_blue; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+a{
+  color:$deep_blue!important;
+}
+
+.breadcrumb-ckd{
+
+  @media(min-width:$large){
+     font-size:20px;
+   }
+  @media(min-width: $mob_min) and (max-width:$smob_max){
+     padding-top: 50px;
+     padding-bottom: 30px;
+     font-size:14px;
+  }
+}
+
+.narrow-select { width: 80%; }
+
+#footer_cols{
+  color:$deep_blue!important;
+  text-align:center;
+}
+
+html, body {
+  margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.heading {
+	font-size: 20px;
+	color: #fff;
+	padding: 5px 0 5px 10px;
+}
+
+#base_header {
+color:#000!important;
+  &:hover{
+    color: $deep_blue !important;
+    opacity: 0.6;
+    transition: 0.3s;
+  }
+}
+
+#footer  {
+padding-top:3%;
+background-color:#000;
+padding-bottom:2%;
+position:relative;
+}
+#holder{
+    position:relative;
+    padding-bottom: 47px;
+}
+
+#body{ /* height of footer */
+    padding-left: 5%!important;
+    padding-right: 5%!important;
+}
+
+
+tbody{
+  color:white;
+}
+
+.cm_pag{
+  @media(min-width: $mob_min) and (max-width: $smob_max){
+    font-size:8px;
+  }
+}
+
+.cm_pag .pagination>li>a {
+  border: 1px solid $deep_blue;
+  background: #474747;
+  color:$deep_blue!important;
+}
+.page-item.active>a, .page-item>a:hover{
+    background-color: black!important;
+    border: 1px solid $deep_blue!important;
+    color:white!important;
+  }
+
+
+.filter_row{
+  margin-top:10px;
+  .card{
+    border:1px solid #ccc;
+    .card-body{
+      padding:0px 0;
+      .card-title{
+        background: $deep_blue;
+        font-weight: 600;
+        font-size: 1rem;
+        color:white;
+      }
+      .form-group{
+        margin-bottom: 10px;
+        margin-right: 5px;
+        text-align: center!important;
+        label{
+          text-align: right!important;
+          color: white;
+          font-size: 0.85rem;
+          font-weight: 600;
+          text-transform: none;
+        }
+        .form-control{
+          border-radius: 1.47;
+          box-shadow: none;
+          font-size: 0.85rem;
+        }
+        &.buttons_row{
+          margin-top: 30px;
+        }
+      }
+    }
+  }
+  .table_container_row{
+    margin-top: 0;
+  }
+}
+
+.primary_btn{
+  background:  $deep_blue;
+  color: #fff !important;
+  border:none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: capitalize;
+  letter-spacing: initial;
+  display: inline-block;
+  border-radius: 3px;
+  padding: 2px 10px;
+  line-height: 1.5rem;
+  bordeR: none;
+  cursor: pointer;
+  &:hover{opacity: .8}
+  @media(min-width:$large){
+    font-size:1rem;
+    svg{
+      position: relative;
+      top: 0px;
+    }
+  }
+  svg{
+    display: inline-block;
+    margin-right: 5px;
+  }
+}
+.table_container_row{
+   margin-top: 10px;
+   .card{
+     border: none;
+     border-radius: 0;
+     box-shadow: none;
+     background: $lucky_gray;
+     .card-title{
+       padding:5px 10px !important;
+       background: $black;
+       color:white !important;
+       font-size: 1rem;
+       margin-bottom: 0;
+       font-weight: 600;
+       line-height: 2.3rem;
+       &.title_lh{
+         line-height: 2rem;
+       }
+       .dropdown{
+         display: inline-block;
+         .dropdown-toggle{
+           background: $white;
+           font-size: 12px;
+           color:#fff;
+           border-radius: 0;
+           border:none;
+         }
+       }
+       .mark_read{
+         background: $white;
+         display: inline-block;
+         padding:6px 10px;
+         margin-left:6px;
+         color: $white;
+         &:hover{
+           background:$white;
+           color: #fff;
+           text-decoration: none;
+         }
+       }
+       .total_count{
+         margin-top:0px;
+         color:$white;
+       }
+     }
+     .card-body{
+     padding:0px 0px;
+     table{
+       border: none;
+       margin-bottom: 0;
+       thead{
+         tr{
+           th{
+             color: white!important;
+             font-weight: 900;
+             font-size: 0.9rem;
+             border: none;
+             text-align: left;
+             padding:6px;
+             border-bottom: 1px solid darken(#f7f7f9, 2%);
+           }
+         }
+       }
+       tbody{
+         tr{
+           td{
+             vertical-align: middle;
+             color: white!important;
+             font-size: 0.83rem;
+             text-align: left;
+             font-weight: 500;
+             padding:7px 5px;
+             border-bottom: 1px solid darken(#f7f7f9, 2%);
+             @media(min-width: $large){
+               font-size:1rem;
+             }
+             a{
+               color: lighten($white,5%);
+               font-size: 0.85rem;
+               &:hover{
+                 color:$white;
+                 text-decoration: underline;
+               }
+             }
+             .dropdown{
+               .dropdown-toggle{
+                 background: $white;
+                 font-size: 12px;
+                 color:#fff;
+                 border-radius: 0;
+                 border:none;
+               }
+             }
+             &.actions{
+               a{
+                 &.box{
+                   @extend .box;
+                   line-height: 1.5rem;
+                   width: 1.65rem;
+                   height: 1.65rem;
+                 }
+               }
+             }
+           }
+         }
+       }
+     }
+   }
+ }
+}
+
+.list_filter_row{
+  display: none;
+}
+
+.page-item.active>a, .page-item>a:hover{
+    background-color: black!important;
+    border: 1px solid $deep_blue!important;
+    color:white!important;
+  }
+.btn.btn-primary.save,{
+  background:$black!important;
+  border: 1px solid $deep_blue!important;
+  color:$white!important;
+  &:hover{
+    opacity:0.6;
+  }
+}
