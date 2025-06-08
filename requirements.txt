@@ -3,7 +3,7 @@ django-cors-headers == 3.2
 django_heroku == 0.3.1
 whitenoise == 5.0.1
 psycopg2 == 2.8.3
-gunicorn == 19.9.0
+gunicorn == 22.0.0
 psycopg2-binary == 2.8.3
 django_compressor == 2.3
 django-libsass == 0.7
