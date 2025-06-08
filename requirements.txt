@@ -1,4 +1,4 @@
-django == 3.2.24
+django == 4.2.22
 django-cors-headers == 3.2
 django_heroku == 0.3.1
 whitenoise == 5.0.1
